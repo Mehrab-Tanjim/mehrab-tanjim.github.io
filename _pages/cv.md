@@ -7,6 +7,5 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
 <embed src="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" type="application/pdf" width="600px" height="500px" />
