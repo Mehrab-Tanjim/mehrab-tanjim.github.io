@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+ {% pdf "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" %}
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
