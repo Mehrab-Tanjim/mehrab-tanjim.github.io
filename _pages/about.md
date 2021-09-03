@@ -15,7 +15,10 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 Latest News
 ======
 [July, 2021] Joint work with Adobe "Generating and Controlling Diversity in Image Search" has been accepted to WACV'22.
+
 [June, 2021] Joined Adobe GILL team as a Computer Vision, Imaging and Video Intern.
+
 [March, 2021] Received my Master's degree in CS (specialization in Machine Learning) from UCSD!
+
 [January, 2021] Jointed work with BUET "Fast, scalable and geo-distributed PCA for big data analytics" has been accepted to Information Systems'21. 
 
