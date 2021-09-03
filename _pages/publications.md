@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-For latest publications, please visit <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+For latest publications, please visit <u><a href="https://scholar.google.com/citations?user=IPr2JZYAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 {% include base_path %}
 
