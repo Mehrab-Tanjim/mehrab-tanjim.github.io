@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mehrab Tanjim"
+title                    : "Mehrab's Personal Website"
 title_separator          : "-"
 name                     : &name "Mehrab Tanjim"
 description              : &description "personal description"
