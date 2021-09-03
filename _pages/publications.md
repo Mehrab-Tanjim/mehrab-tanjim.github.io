@@ -10,5 +10,5 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% include publication.html %}
 {% endfor %}
