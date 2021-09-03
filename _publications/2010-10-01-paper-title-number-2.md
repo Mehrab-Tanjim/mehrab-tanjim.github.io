@@ -1,6 +1,6 @@
 ---
 title: "Attentive Sequential Models of Latent Intent for Next Item Recommendation"
-permalink: /publication/2015-10-01-paper-title-number-2
+permalink: https://doi.org/10.1145/3366423.3380002
 collection: publications
 date: 2021-01-01
 venue: 'International World Wide Web Conference (WWW)'
