@@ -7,6 +7,28 @@ html {
   min-height: 100%;
 }
 
+
+two_column_wrapper {
+  margin-left: 200px;
+}
+
+two_column_content {
+  float: right;
+  width: 100%;
+  background-color: #CCF;
+}
+
+two_column_sidebar {
+  float: left;
+  width: 200px;
+  margin-left: -200px;
+  background-color: #FFA;
+}
+
+two_column_cleared {
+  clear: both;
+}
+
 body {
   margin: 0;
   padding: 0;
