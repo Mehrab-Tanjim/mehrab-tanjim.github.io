@@ -8,24 +8,24 @@ html {
 }
 
 
-two_column_wrapper {
+.two_column_wrapper {
   margin-left: 200px;
 }
 
-two_column_content {
+.two_column_content {
   float: right;
   width: 100%;
   background-color: #CCF;
 }
 
-two_column_sidebar {
+.two_column_sidebar {
   float: left;
   width: 200px;
   margin-left: -200px;
   background-color: #FFA;
 }
 
-two_column_cleared {
+.two_column_cleared {
   clear: both;
 }
 
