@@ -11,32 +11,32 @@
 {% else %}
   {% assign title = post.title %}
 {% endif %}
-<style>
-  img {
-    border: 1px solid #ddd; /* Gray border */
-    border-radius: 4px;  /* Rounded border */
-    padding: 5px; /* Some padding */
-    width: 150px; /* Set a small width */
-  }
 
-  /* Add a hover effect (blue shadow) */
-  img:hover {
-    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
-  }
-</style>
+.container {
+    background-color:#2E4272;
+    display:flex;
+}
+.fixed {
+    background-color:#4F628E;
+    width: 200px;
+}
+.flex-item {
+    background-color:#7887AB;
+    flex-grow: 1;
+}
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
-    <a target="_blank" href="img_forest.jpg">
-      <img src="img_forest.jpg" alt="Forest">
-    </a>
-
-    <h2 class="archive__item-title" itemprop="headline">
-        <a href="{{ post.paperurl }}">{{ title }}</a>
-    </h2>
-
-    <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-
+    <div class="container">
+        <div class="fixed">
+            <h2 class="archive__item-title" itemprop="headline">
+                <a href="{{ post.paperurl }}">{{ title }}</a>
+            </h2>
+        </div>
+        <div class="flex-item">
+             <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+        </div>
+  </div>
   </article>
 </div>
