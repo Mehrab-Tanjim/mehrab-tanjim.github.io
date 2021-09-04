@@ -1,12 +1,11 @@
 /* ==========================================================================
    MASTHEAD
   position: relative;
-  clear: both;
-  position: -webkit-sticky;
+  
    ========================================================================== */
 
 .masthead {
-  position: sticky;
+  position: relative;
    
   border-bottom: 1px solid $border-color;
   -webkit-animation: intro 0.3s both;
@@ -33,6 +32,13 @@
       text-decoration: none;
     }
   }
+}
+
+.masthead__sticky {
+   clear: both;
+   position: -webkit-sticky;
+   position: sticky;
+   top: 0em
 }
 
 .masthead__menu {
