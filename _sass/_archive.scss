@@ -27,6 +27,18 @@
   }
 }
 
+.archive__column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.archive__row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 .archive__subtitle {
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;
