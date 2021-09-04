@@ -12,22 +12,16 @@
   {% assign title = post.title %}
 {% endif %}
 
-.flx {
-    background-color:#2E4272;
-    display:flex;
-}
-.fixed {
-    background-color:#4F628E;
-    width: 200px;
-}
-.flex-item {
-    background-color:#7887AB;
-    flex-grow: 1;
-}
-
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
+    
+    <div class="two_column_wrapper">
+      <div class="two_column_content">Column 1 (fluid)</div>
+      <div class="two_column_sidebar">Column 2 (fixed)</div>
+      <div class="two_column_cleared"></div>
+    </div>
+
     <div class="flx">
         <div class="fixed">
             <h2 class="archive__item-title" itemprop="headline">
