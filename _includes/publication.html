@@ -27,7 +27,7 @@
   
 
     <h2 class="archive__item-title" itemprop="headline">
-        <a href="{{ post.paperurl }}" rel="permalink">{{ title }}</a>
+        <a href="{{ post.paperurl }}">{{ title }}</a>
     </h2>
 
       <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
