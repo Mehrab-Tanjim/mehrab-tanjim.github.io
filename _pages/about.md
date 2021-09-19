@@ -28,7 +28,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 For latest publications, please visit <u><a href="https://scholar.google.com/citations?user=IPr2JZYAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 <br>
 
-<div class="archive__row">
+<div class="archive__pub__row">
   <div class="archive__pub__left">
     <p>
     <b>Generating and Controlling Diversity in Image Search.</b>
