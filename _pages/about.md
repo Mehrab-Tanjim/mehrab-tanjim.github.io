@@ -13,7 +13,7 @@ Hi! I am Mehrab, a PhD Candidate (4th year) in CS with a specialization in Artif
 Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdullah Adnan](https://sites.google.com/site/abdullahadnan/) at my undergraduate university, Bangladesh University of Engineering and Technology (BUET), where I received my bachelor's in CS. There I spent a wonderful time developing scalable machine learning algorithms (e.g. PCA) in the distributed environment (e.g Spark/Hadoop). After joining UCSD, I had the opportunity to work as a Data Science intern at Etsy (Summer 2019) and Adobe (Summer 2020 and 2021). I am grateful to Adobe for the generous gift funds to my advisor for supporting my research.
 
 <h2 id="news">Latest News</h2>
-======
+
 [July 2021] Joint work with Adobe "Generating and Controlling Diversity in Image Search" has been accepted to WACV'22.
 
 [June 2021] Joined Adobe GILL team as a Computer Vision, Imaging, and Video Intern.
@@ -23,19 +23,50 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 [January 2021] Joint work with BUET "Fast, scalable and geo-distributed PCA for big data analytics" has been accepted to Information Systems'21. 
 
 <h2 id="publications">Publications</h2>
-======
+
 For latest publications, please visit <u><a href="https://scholar.google.com/citations?user=IPr2JZYAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
-**Generating and Controlling Diversity in Image Search.**
-MM Tanjim, R Sinha, KK Singh, S Mahadevan, D Arbour, M Sinha, GW Cottrell
-WACV, 2022
+<p>
+<b>Generating and Controlling Diversity in Image Search.</b>
+Md Mehrab Tanjim, Ritwik Sinha, Krishna Kumar Singh, Sridhar Mahadevan, David Arbour, Moumita Sinha, Garrison W. Cottrell
+Winter Conference on Applications of Computer Vision (WACV), 2022
+</p>
 
-**Fast, scalable and geo-distributed PCA for big data analytics**
-TMT Adnan, MM Tanjim, MA Adnan
-Information Systems, 2021
+<p>
+<b>Fast, scalable and geo-distributed PCA for big data analytics</b>
+TM Tariq Adnan, Md Mehrab Tanjim, Mummad Abdullah Adnan
+Information Systems, Elsevier, 2021
+</p>
 
-DynamicRec: A Dynamic Convolutional Network for Next Item Recommendation. MM Tanjim, HA Ayyubi, GW Cottrell, CIKM,  2020
-Generating Rationales in Visual Question Answering. HA Ayyubi, MM Tanjim, JJ McAuley, GW Cottrell, CoRR, 2020
-Attentive sequential models of latent intent for next item recommendation. MM Tanjim, C Su, E Benjamin, D Hu, L Hong, JJ McAuley, WWW, 2020
-Enforcing Reasoning in Visual Commonsense Reasoning. HA Ayyubi, MM Tanjim, DJ Kriegman, CoRR, 2019
-sSketch: A scalable sketching technique for PCA in the cloud. MM Tanjim, MA Adnan, WSDM, 2018
+<p>
+<b>DynamicRec: A Dynamic Convolutional Network for Next Item Recommendation</b>
+Md Mehrab Tanjim, Hammad A. Ayyubi, Garrison W. Cottrell
+Conference on Information and Knowledge Management (CIKM), 2020
+</p>
+
+
+<p>
+<b>Attentive sequential models of latent intent for next item recommendation</b>
+Md Mehrab Tanjim, Congze Su, Ethan Benjamin, Dian Hu, Liangjie Hong, Julian McAuley
+World Wide Web (WWW), 2020
+</p>
+
+<p>
+<b>Generating Rationales in Visual Question Answering</b>
+Hammad A. Ayyubi*, Md Mehrab Tanjim*, Julian McAuley, Garrison W. Cottrell
+CoRR, 2020
+</p>
+
+<p>
+<b>Enforcing Reasoning in Visual Commonsense Reasoning</b>.
+Hammad A. Ayyubi, Md Mehrab Tanjim, David Kriegman
+CoRR, 2019
+</p>
+
+
+<p>
+<b>sSketch: A scalable sketching technique for PCA in the cloud</b>.
+Md Mehrab Tanjim, Muhammad Abdullah Adnan
+Web Search & Data Mining (WSDM), 2018
+</p>
+
