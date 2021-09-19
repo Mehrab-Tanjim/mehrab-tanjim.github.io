@@ -26,7 +26,8 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 <h2>Publications</h2>
 
 For latest publications, please visit <u><a href="https://scholar.google.com/citations?user=IPr2JZYAAAAJ&hl=en">my Google Scholar profile</a>.</u>
-<br>
+<br><br>
+
 
 <div class="archive__pub__row">
   <div class="archive__pub__left">
@@ -37,7 +38,9 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
     </p>
   </div>
   <div class="archive__pub__right">
-     <img src="https://mehrab-tanjim.github.io/images/adobe_logo_scaled.png"> 
+    <div class="square">
+        <img  src="https://mehrab-tanjim.github.io/images/adobe_logo_scaled.png"> 
+    </div>
   </div>
 </div>
 
@@ -62,7 +65,9 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
     </p>
   </div>
   <div class="archive__pub__right">
-     <img src="https://mehrab-tanjim.github.io/images/etsy_logo_scaled.png"> 
+     <div class="square">
+        <img src="https://mehrab-tanjim.github.io/images/etsy_logo_scaled.png"> 
+    </div>
   </div>
 </div>
 
