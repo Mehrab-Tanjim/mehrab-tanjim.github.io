@@ -40,13 +40,14 @@
 .archive__pub__right {
    float: right;
    width: 200px;
-   margin-left: -200px;
+   margin-right: -200px;
 }
 
 /* Clear floats after the columns */
-.archive__row:after {
+.archive__pub__row:after {
   content: "";
   display: table;
+  margin-right: 200px;
   clear: both;
 }
 
