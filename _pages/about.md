@@ -37,7 +37,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
     </p>
   </div>
   <div class="archive__pub__right">
-    This is some text to test this? is it working?
+     <img src="https://mehrab-tanjim.github.io/images/adobe_logo_scaled.png"> 
   </div>
 </div>
 
@@ -53,12 +53,18 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 <br>Conference on Information and Knowledge Management (CIKM), 2020
 </p>
 
-
-<p>
-<b>Attentive sequential models of latent intent for next item recommendation</b>
-<br>Md Mehrab Tanjim, Congzhe Su, Ethan Benjamin, Dian Hu, Liangjie Hong, Julian McAuley
-<br>World Wide Web (WWW), 2020
-</p>
+<div class="archive__pub__row">
+  <div class="archive__pub__left">
+    <p>
+    <b>Attentive sequential models of latent intent for next item recommendation</b>
+    <br>Md Mehrab Tanjim, Congzhe Su, Ethan Benjamin, Dian Hu, Liangjie Hong, Julian McAuley
+    <br>World Wide Web (WWW), 2020
+    </p>
+  </div>
+  <div class="archive__pub__right">
+     <img src="https://mehrab-tanjim.github.io/images/etsy_logo_scaled.png"> 
+  </div>
+</div>
 
 <p>
 <b>Generating Rationales in Visual Question Answering</b>
