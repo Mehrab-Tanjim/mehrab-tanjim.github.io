@@ -28,45 +28,45 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 
 <p>
 <b>Generating and Controlling Diversity in Image Search.</b>
-Md Mehrab Tanjim, Ritwik Sinha, Krishna Kumar Singh, Sridhar Mahadevan, David Arbour, Moumita Sinha, Garrison W. Cottrell
-Winter Conference on Applications of Computer Vision (WACV), 2022
+<br>Md Mehrab Tanjim, Ritwik Sinha, Krishna Kumar Singh, Sridhar Mahadevan, David Arbour, Moumita Sinha, Garrison W. Cottrell
+<br>Winter Conference on Applications of Computer Vision (WACV), 2022
 </p>
 
 <p>
 <b>Fast, scalable and geo-distributed PCA for big data analytics</b>
-TM Tariq Adnan, Md Mehrab Tanjim, Mummad Abdullah Adnan
-Information Systems, Elsevier, 2021
+<br>TM Tariq Adnan, Md Mehrab Tanjim, Mummad Abdullah Adnan
+<br>Information Systems, Elsevier, 2021
 </p>
 
 <p>
 <b>DynamicRec: A Dynamic Convolutional Network for Next Item Recommendation</b>
-Md Mehrab Tanjim, Hammad A. Ayyubi, Garrison W. Cottrell
-Conference on Information and Knowledge Management (CIKM), 2020
+<br>Md Mehrab Tanjim, Hammad A. Ayyubi, Garrison W. Cottrell
+<br>Conference on Information and Knowledge Management (CIKM), 2020
 </p>
 
 
 <p>
 <b>Attentive sequential models of latent intent for next item recommendation</b>
-Md Mehrab Tanjim, Congze Su, Ethan Benjamin, Dian Hu, Liangjie Hong, Julian McAuley
-World Wide Web (WWW), 2020
+<br>Md Mehrab Tanjim, Congzhe Su, Ethan Benjamin, Dian Hu, Liangjie Hong, Julian McAuley
+<br>World Wide Web (WWW), 2020
 </p>
 
 <p>
 <b>Generating Rationales in Visual Question Answering</b>
-Hammad A. Ayyubi*, Md Mehrab Tanjim*, Julian McAuley, Garrison W. Cottrell
-CoRR, 2020
+<br>Hammad A. Ayyubi*, Md Mehrab Tanjim*, Julian McAuley, Garrison W. Cottrell
+<br>Computing Research Repository (CoRR), 2020
 </p>
 
 <p>
 <b>Enforcing Reasoning in Visual Commonsense Reasoning</b>.
-Hammad A. Ayyubi, Md Mehrab Tanjim, David Kriegman
-CoRR, 2019
+<br>Hammad A. Ayyubi, Md Mehrab Tanjim, David Kriegman
+<br>Computing Research Repository (CoRR), 2019
 </p>
 
 
 <p>
 <b>sSketch: A scalable sketching technique for PCA in the cloud</b>.
-Md Mehrab Tanjim, Muhammad Abdullah Adnan
-Web Search & Data Mining (WSDM), 2018
+<br>Md Mehrab Tanjim, Muhammad Abdullah Adnan
+<br>Web Search & Data Mining (WSDM), 2018
 </p>
 
