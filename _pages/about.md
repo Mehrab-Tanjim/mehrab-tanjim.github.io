@@ -27,7 +27,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 
 <div>
 For latest publications, please visit <u><a href="https://scholar.google.com/citations?user=IPr2JZYAAAAJ&hl=en">my Google Scholar profile</a>.</u>
-<br>
+<br><br>
 </div>
  
 <div class="archive__pub__row">
