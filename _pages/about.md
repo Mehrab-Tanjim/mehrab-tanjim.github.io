@@ -27,12 +27,19 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 
 For latest publications, please visit <u><a href="https://scholar.google.com/citations?user=IPr2JZYAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 <br>
- 
-<p>
-<b>Generating and Controlling Diversity in Image Search.</b>
-<br>Md Mehrab Tanjim, Ritwik Sinha, Krishna Kumar Singh, Sridhar Mahadevan, David Arbour, Moumita Sinha, Garrison W. Cottrell
-<br>Winter Conference on Applications of Computer Vision (WACV), 2022
-</p>
+
+<div class="archive__row">
+  <div class="archive__pub__left">
+    <p>
+    <b>Generating and Controlling Diversity in Image Search.</b>
+    <br>Md Mehrab Tanjim, Ritwik Sinha, Krishna Kumar Singh, Sridhar Mahadevan, David Arbour, Moumita Sinha, Garrison W. Cottrell
+    <br>Winter Conference on Applications of Computer Vision (WACV), 2022
+    </p>
+  </div>
+  <div class="archive__pub__right">
+    This is some text to test this? is it working?
+  </div>
+</div>
 
 <p>
 <b>Fast, scalable and geo-distributed PCA for big data analytics</b>
