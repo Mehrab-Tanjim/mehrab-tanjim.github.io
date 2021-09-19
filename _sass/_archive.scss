@@ -32,6 +32,17 @@
   width: 50%;
 }
 
+.archive__pub__left {
+   float: left;
+   width: 100%; 
+}
+
+.archive__pub__right {
+   float: right;
+   width: 200px;
+   margin-left: -200px;
+}
+
 /* Clear floats after the columns */
 .archive__row:after {
   content: "";
