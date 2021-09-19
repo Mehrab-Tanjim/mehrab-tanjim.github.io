@@ -26,7 +26,8 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 <h2>Publications</h2>
 
 For latest publications, please visit <u><a href="https://scholar.google.com/citations?user=IPr2JZYAAAAJ&hl=en">my Google Scholar profile</a>.</u>
-
+<br>
+ 
 <p>
 <b>Generating and Controlling Diversity in Image Search.</b>
 <br>Md Mehrab Tanjim, Ritwik Sinha, Krishna Kumar Singh, Sridhar Mahadevan, David Arbour, Moumita Sinha, Garrison W. Cottrell
