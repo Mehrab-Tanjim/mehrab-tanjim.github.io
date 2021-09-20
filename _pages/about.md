@@ -74,23 +74,6 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
   
   
 <h2>Multi-modal Learning</h2>
-
-<div class="archive__proj__row">
-<div class="archive__proj__right">
-  
-<p>
-<b>Rationale Generation</b>
-<br>Tasked state-of-the-art Visual Question Answering model (ViLBERT) with  rationale generation (using GPT-2) to interpret/justify answer prediction. It improves accuracy by 1.5% as well.
-</p>
-  
-</div>
-<div class="archive__proj__left">
-   <div>
-      <img src="https://mehrab-tanjim.github.io/images/rationale_generation.png"> 
-  </div>
-</div>
-</div>
-
   
 <div class="archive__proj__row">
 <div class="archive__proj__right">
@@ -110,8 +93,24 @@ leaderboard)
   </div>
 </div>
 </div>
-
-
+  
+<div class="archive__proj__row">
+<div class="archive__proj__right">
+  
+<p>
+<b>Rationale Generation</b>
+<br>Tasked state-of-the-art Visual Question Answering model (ViLBERT) with  rationale generation (using GPT-2) to interpret/justify answer prediction. It improves accuracy by 1.5% as well.
+</p>
+  
+</div>
+<div class="archive__proj__left">
+   <div>
+      <img src="https://mehrab-tanjim.github.io/images/rationale_generation.png"> 
+  </div>
+</div>
+</div>
+  
+  
 <h2>Federated Learning</h2>
   
 <div class="archive__proj__row">
