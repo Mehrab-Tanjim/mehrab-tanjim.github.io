@@ -22,6 +22,148 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 
 [January 2021] Joint work with BUET "Fast, scalable and geo-distributed PCA for big data analytics" has been accepted to Information Systems'21. 
 
+
+<div id="projects">
+<h2>Projects</h2>
+
+<h3>Debiasing Generative Models</h3>
+ 
+<div class="archive__proj__row">
+  <div class="archive__proj__left">
+    <p>
+    <b>Generating and Controlling Diversity in Image Search.</b>
+    <br>Md Mehrab Tanjim, Ritwik Sinha, Krishna Kumar Singh, Sridhar Mahadevan, David Arbour, Moumita Sinha, Garrison W. Cottrell
+    <br>Winter Conference on Applications of Computer Vision (WACV), 2022
+    <br><a href="https://adobe-my.sharepoint.com/:b:/p/tanjim/ERL7lAASxMJChC_HPmWmMssB0Zbi7S4g7rmUvAAwoMyEXQ?e=ei8hLc">pdf</a>
+    </p>
+  </div>
+  <div class="archive__proj__right">
+    <div class="portrait">
+        <img  src="https://mehrab-tanjim.github.io/images/adobe_logo_scaled.png"> 
+    </div>
+  </div>
+</div>
+
+<h3>Recommender Systems</h3> 
+<div class="archive__proj__row">
+  <div class="archive__proj__left">
+    <p>
+    <p>
+    <b>DynamicRec: A Dynamic Convolutional Network for Next Item Recommendation</b>
+    <br>Md Mehrab Tanjim, Hammad A. Ayyubi, Garrison W. Cottrell
+    <br>Conference on Information and Knowledge Management (CIKM), 2020
+    <br><a href="https://cseweb.ucsd.edu/~gary/pubs/mehrab-cikm-2020.pdf">pdf</a> | <a href="https://github.com/Mehrab-Tanjim/DynamicRec">code</a>
+    </p>
+  </div>
+  <div class="archive__proj__right">
+    <div class="square">
+        <img  src="https://mehrab-tanjim.github.io/images/adobe_logo_scaled.png"> 
+    </div>
+  </div>
+</div>
+
+
+<div class="archive__proj__row">
+  <div class="archive__proj__left">
+    <p>
+    <b>Attentive sequential models of latent intent for next item recommendation</b>
+    <br>Md Mehrab Tanjim, Congzhe Su, Ethan Benjamin, Dian Hu, Liangjie Hong, Julian McAuley
+    <br>World Wide Web (WWW), 2020
+    <br><a href="https://cseweb.ucsd.edu/~jmcauley/pdfs/www20.pdf">pdf</a>
+    </p>
+  </div>
+  <div class="archive__proj__right">
+     <div class="square">
+        <img src="https://mehrab-tanjim.github.io/images/etsy_logo_scaled.png"> 
+    </div>
+  </div>
+</div>
+  
+  
+<h3>Multi-modal Learning</h3>
+
+<div class="archive__proj__row">
+<div class="archive__proj__left">
+  
+<p>
+<b>Generating Rationales in Visual Question Answering</b>
+<br>Hammad A. Ayyubi*, Md Mehrab Tanjim*, Julian McAuley, Garrison W. Cottrell
+<br>Computing Research Repository (CoRR), 2020
+<br><a href="https://arxiv.org/pdf/2004.02032.pdf">pdf</a>
+ 
+</div>
+<div class="archive__proj__right">
+   <div class="square">
+      <img src="https://mehrab-tanjim.github.io/images/etsy_logo_scaled.png"> 
+  </div>
+</div>
+</div>
+
+  
+<div class="archive__proj__row">
+<div class="archive__proj__left">
+  
+
+<p>
+<b>Enforcing Reasoning in Visual Commonsense Reasoning</b>.
+<br>Hammad A. Ayyubi, Md Mehrab Tanjim, David Kriegman
+<br>Computing Research Repository (CoRR), 2019
+<br><a href="https://arxiv.org/pdf/1910.11124.pdf">pdf</a> | <a href="https://github.com/Mehrab-Tanjim/r2c">code</a>
+</p>
+  
+</div>
+<div class="archive__proj__right">
+   <div class="square">
+      <img src="https://mehrab-tanjim.github.io/images/etsy_logo_scaled.png"> 
+  </div>
+</div>
+</div>
+
+
+<h3>Federated Learning</h3>
+  
+<div class="archive__proj__row">
+<div class="archive__proj__left">
+  
+<p>
+<b>Fast, scalable and geo-distributed PCA for big data analytics</b>
+<br>TM Tariq Adnan, Md Mehrab Tanjim, Mummad Abdullah Adnan
+<br>Information Systems, Elsevier, 2021
+<br><a href="https://www.sciencedirect.com/science/article/abs/pii/S0306437920301526?dgcid=rss_sd_all">pdf</a> | <a href="https://github.com/Mehrab-Tanjim/TallnWide">code</a>
+</p>
+ 
+</div>
+<div class="archive__proj__right">
+   <div class="square">
+      <img src="https://mehrab-tanjim.github.io/images/etsy_logo_scaled.png"> 
+  </div>
+</div>
+</div>
+  
+
+<div class="archive__proj__row">
+<div class="archive__proj__left">
+  
+
+<p>
+<b>sSketch: A scalable sketching technique for PCA in the cloud</b>.
+<br>Md Mehrab Tanjim, Muhammad Abdullah Adnan
+<br>Web Search & Data Mining (WSDM), 2018
+<br><a href="https://dl.acm.org/doi/abs/10.1145/3159652.3159736">pdf</a> | <a href="https://github.com/Mehrab-Tanjim/sSketch">code</a>
+</p>
+  
+</div>
+<div class="archive__proj__right">
+   <div class="square">
+      <img src="https://mehrab-tanjim.github.io/images/etsy_logo_scaled.png"> 
+  </div>
+</div>
+</div>
+  
+
+</div>
+
+
 <div id="publications">
 <h2>Publications</h2>
 
