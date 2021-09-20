@@ -51,7 +51,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
     </p>
   </div>
   <div class="archive__proj__left">
-    <div class="landscape">
+    <div>
         <img  src="https://mehrab-tanjim.github.io/images/dynamic_convolution.png"> 
     </div>
   </div>
@@ -85,7 +85,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
   
 </div>
 <div class="archive__proj__left">
-   <div class="landscape">
+   <div>
       <img src="https://mehrab-tanjim.github.io/images/rationale_generation.png"> 
   </div>
 </div>
@@ -105,7 +105,7 @@ leaderboard)
   
 </div>
 <div class="archive__proj__left">
-   <div class="landscape">
+   <div>
       <img src="https://mehrab-tanjim.github.io/images/enforcing_common_sense.png"> 
   </div>
 </div>
@@ -125,7 +125,7 @@ geo-distributed clusters in AWS and designed geo-distributed algorithms for high
  
 </div>
 <div class="archive__proj__left">
-   <div class="landscape">
+   <div>
       <img src="https://mehrab-tanjim.github.io/images/TallnWide.png"> 
   </div>
 </div>
@@ -144,7 +144,7 @@ performance) using sketching technique
   
 </div>
 <div class="archive__proj__left">
-   <div class="landscape">
+   <div>
       <img src="https://mehrab-tanjim.github.io/images/etsy_logo_scaled.png"> 
   </div>
 </div>
