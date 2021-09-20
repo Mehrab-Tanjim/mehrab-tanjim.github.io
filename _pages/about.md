@@ -31,7 +31,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b>Generating and Controlling Diversity in Image Search.</b>
+    <b>Bias Detection in Image Search and Mitigation</b>
     <br>Identified the bias issue in the image results for search queries, proposed a way to audit. In addition, proposed an attribute-controlled style-based generator to create new content to mitigate such biases and enrich user experience.
     </p>
   </div>
