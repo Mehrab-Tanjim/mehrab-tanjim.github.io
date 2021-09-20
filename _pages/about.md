@@ -31,7 +31,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b>Bias Detection in Image Search and Mitigation</b>
+    <b><a href="https://adobe-my.sharepoint.com/:b:/p/tanjim/ERL7lAASxMJChC_HPmWmMssB0Zbi7S4g7rmUvAAwoMyEXQ?e=ei8hLc">Bias Detection in Image Search and Mitigation</a></b>
     <br>Identified the bias issue in the image results for search queries, proposed a way to audit. In addition, proposed an attribute-controlled style-based generator to create new content to mitigate such biases and enrich user experience.
     </p>
   </div>
@@ -46,7 +46,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b>Dynamic Convolution</b>
+      <b><a href="https://cseweb.ucsd.edu/~gary/pubs/mehrab-cikm-2020.pdf">Dynamic Convolution</a></b>
     <br>Built an adaptive convolution network which changes its kernel dynamically depending on the current input (~10% better recommendations).
     </p>
   </div>
@@ -61,7 +61,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b>Intent Detection for Recommendation</b>
+    <b><a href="https://cseweb.ucsd.edu/~jmcauley/pdfs/www20.pdf">Intent Detection for Recommendation<a></b>
     <br>Captured users’ hidden intents (i.e. explore, purchase) from their interactions by designing a hierarchical Transformer model. It first discovers these intents and then pays attention to them for next item prediction (improved personalized recommendations by 5%)
     </p>
   </div>
@@ -80,7 +80,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
   
 
 <p>
-<b>Visual Commonsense Reasoning</b>.
+<b><a href="https://arxiv.org/pdf/1910.11124.pdf">Visual Commonsense Reasoning<a></b>.
 <br>Enforced reasoning for ans. prediction on VCR by building a 
 differentiable module which jointly trains ans. and rationale prediction (performed better in 
 leaderboard)
@@ -98,7 +98,7 @@ leaderboard)
 <div class="archive__proj__right">
   
 <p>
-<b>Rationale Generation</b>
+<b><a href="https://arxiv.org/pdf/2004.02032.pdf">Rationale Generation<a></b>
 <br>Tasked state-of-the-art Visual Question Answering model (ViLBERT) with  rationale generation (using GPT-2) to interpret/justify answer prediction. It improves accuracy by 1.5% as well.
 </p>
   
@@ -117,7 +117,7 @@ leaderboard)
 <div class="archive__proj__right">
   
 <p>
-<b>Distributed Algorithm Design</b>
+  <b><a href="https://github.com/Mehrab-Tanjim/geo-spark-hadoop">Distributed Algorithm Design</a></b>
 <br>Extended both Spark and Hadoop for creating 
 geo-distributed clusters in AWS and designed geo-distributed algorithms for higher dimension data 
 </p>
@@ -136,7 +136,7 @@ geo-distributed clusters in AWS and designed geo-distributed algorithms for high
   
 
 <p>
-<b>Scalable Machine Learning</b>.
+  <b><a href="https://dl.acm.org/doi/abs/10.1145/3159652.3159736">Scalable Machine Learning</a></b>.
 <br>Improved the scalability of PCA for large datasets (up to 83× better 
 performance) using sketching technique
 </p>
