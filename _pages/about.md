@@ -52,7 +52,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
   </div>
   <div class="archive__proj__left">
     <div class="square">
-        <img  src="https://mehrab-tanjim.github.io/images/adobe_logo_scaled.png"> 
+        <img  src="https://mehrab-tanjim.github.io/images/dynamic_convolution.png"> 
     </div>
   </div>
 </div>
@@ -67,7 +67,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
   </div>
   <div class="archive__proj__left">
      <div class="square">
-        <img src="https://mehrab-tanjim.github.io/images/etsy_logo_scaled.png"> 
+        <img src="https://mehrab-tanjim.github.io/images/asli.png"> 
     </div>
   </div>
 </div>
@@ -86,7 +86,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 </div>
 <div class="archive__proj__left">
    <div class="square">
-      <img src="https://mehrab-tanjim.github.io/images/etsy_logo_scaled.png"> 
+      <img src="https://mehrab-tanjim.github.io/images/rationale_generation.png"> 
   </div>
 </div>
 </div>
@@ -106,7 +106,7 @@ leaderboard)
 </div>
 <div class="archive__proj__left">
    <div class="square">
-      <img src="https://mehrab-tanjim.github.io/images/etsy_logo_scaled.png"> 
+      <img src="https://mehrab-tanjim.github.io/images/enforcing_common_sense.png"> 
   </div>
 </div>
 </div>
@@ -126,7 +126,7 @@ geo-distributed clusters in AWS and designed geo-distributed algorithms for high
 </div>
 <div class="archive__proj__left">
    <div class="square">
-      <img src="https://mehrab-tanjim.github.io/images/etsy_logo_scaled.png"> 
+      <img src="https://mehrab-tanjim.github.io/images/TallnWide.png"> 
   </div>
 </div>
 </div>
@@ -208,7 +208,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   </div>
 </div>
 
-<p>
+<!-- <p>
 <b>Generating Rationales in Visual Question Answering</b>
 <br>Hammad A. Ayyubi*, Md Mehrab Tanjim*, Julian McAuley, Garrison W. Cottrell
 <br>Computing Research Repository (CoRR), 2020
@@ -220,7 +220,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 <br>Hammad A. Ayyubi, Md Mehrab Tanjim, David Kriegman
 <br>Computing Research Repository (CoRR), 2019
 <br><a href="https://arxiv.org/pdf/1910.11124.pdf">pdf</a> | <a href="https://github.com/Mehrab-Tanjim/r2c">code</a>
-</p>
+</p> -->
 
 
 <p>
