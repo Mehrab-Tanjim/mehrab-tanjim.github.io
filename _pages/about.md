@@ -12,7 +12,7 @@ Hi! I am Mehrab, a PhD Candidate (4th year) in CS with a specialization in Artif
 
 Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdullah Adnan](https://sites.google.com/site/abdullahadnan/) at my undergraduate university, Bangladesh University of Engineering and Technology (BUET), where I received my bachelor's in CS. There I spent a wonderful time developing scalable machine learning algorithms (e.g. PCA) in the distributed environment (e.g Spark/Hadoop). After joining UCSD, I had the opportunity to work as a Data Science intern at Etsy (Summer 2019) and Adobe (Summer 2020 and 2021). I am grateful to Adobe for the generous gift funds to my advisor for supporting my research.
 
-<h2>Latest News</h2>
+<h1>Latest News</h1>
 
 [July 2021] Joint work with Adobe "Generating and Controlling Diversity in Image Search" has been accepted to WACV'22.
 
@@ -24,9 +24,9 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 
 
 <div id="projects">
-<h2>Projects</h2>
+<h1>Projects</h1>
 
-<h3>Debiasing Generative Models</h3>
+<h2>Debiasing Generative Models</h2>
  
 <div class="archive__proj__row">
   <div class="archive__proj__right">
