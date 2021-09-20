@@ -42,7 +42,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
   </div>
 </div>
 
-<h3>Recommender Systems</h3> 
+<h2>Recommender Systems</h2> 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
@@ -77,7 +77,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 </div>
   
   
-<h3>Multi-modal Learning</h3>
+<h2>Multi-modal Learning</h2>
 
 <div class="archive__proj__row">
 <div class="archive__proj__right">
@@ -118,7 +118,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 </div>
 
 
-<h3>Federated Learning</h3>
+<h2>Federated Learning</h2>
   
 <div class="archive__proj__row">
 <div class="archive__proj__right">
