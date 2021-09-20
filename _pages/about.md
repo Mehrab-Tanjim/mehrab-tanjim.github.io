@@ -61,7 +61,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b><a href="https://cseweb.ucsd.edu/~jmcauley/pdfs/www20.pdf">Intent Detection for Recommendation<a></b>
+    <b><a href="https://cseweb.ucsd.edu/~jmcauley/pdfs/www20.pdf">Intent Detection for Recommendation</a></b>
     <br>Captured users’ hidden intents (i.e. explore, purchase) from their interactions by designing a hierarchical Transformer model. It first discovers these intents and then pays attention to them for next item prediction (improved personalized recommendations by 5%)
     </p>
   </div>
@@ -98,7 +98,7 @@ leaderboard)
 <div class="archive__proj__right">
   
 <p>
-<b><a href="https://arxiv.org/pdf/2004.02032.pdf">Rationale Generation<a></b>
+<b><a href="https://arxiv.org/pdf/2004.02032.pdf">Rationale Generation</a></b>
 <br>Tasked state-of-the-art Visual Question Answering model (ViLBERT) with  rationale generation (using GPT-2) to interpret/justify answer prediction. It improves accuracy by 1.5% as well.
 </p>
   
