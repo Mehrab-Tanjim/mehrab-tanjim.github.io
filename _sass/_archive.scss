@@ -27,6 +27,25 @@
   }
 }
 
+.archive__proj__right {
+   float: right;
+   width: 100%; 
+}
+
+.archive__proj__left {
+   float: right;
+   width: 200px;
+   margin-left: -200px;
+}
+
+.archive__proj__row:after {
+  content: "";
+  display: table;
+  margin-left: 200px;
+  clear: both;
+}
+
+
 .archive__column {
   float: left;
   width: 50%;
