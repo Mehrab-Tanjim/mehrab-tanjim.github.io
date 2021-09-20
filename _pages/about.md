@@ -46,10 +46,8 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b>DynamicRec: A Dynamic Convolutional Network for Next Item Recommendation</b>
-    <br>Md Mehrab Tanjim, Hammad A. Ayyubi, Garrison W. Cottrell
-    <br>Conference on Information and Knowledge Management (CIKM), 2020
-    <br><a href="https://cseweb.ucsd.edu/~gary/pubs/mehrab-cikm-2020.pdf">pdf</a> | <a href="https://github.com/Mehrab-Tanjim/DynamicRec">code</a>
+    <b>Dynamic Convolution</b>
+    <br>Built an adaptive convolution network which changes its kernel dynamically depending on the current input (~10% better recommendations).
     </p>
   </div>
   <div class="archive__proj__left">
@@ -63,10 +61,8 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b>Attentive sequential models of latent intent for next item recommendation</b>
-    <br>Md Mehrab Tanjim, Congzhe Su, Ethan Benjamin, Dian Hu, Liangjie Hong, Julian McAuley
-    <br>World Wide Web (WWW), 2020
-    <br><a href="https://cseweb.ucsd.edu/~jmcauley/pdfs/www20.pdf">pdf</a>
+    <b>Intent Detection for Recommendation</b>
+    <br>Captured users’ hidden intents (i.e. explore, purchase) from their interactions by designing a hierarchical Transformer model. It first discovers these intents and then pays attention to them for next item prediction (improved personalized recommendations by 5%)
     </p>
   </div>
   <div class="archive__proj__left">
@@ -83,10 +79,8 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 <div class="archive__proj__right">
   
 <p>
-<b>Generating Rationales in Visual Question Answering</b>
-<br>Hammad A. Ayyubi*, Md Mehrab Tanjim*, Julian McAuley, Garrison W. Cottrell
-<br>Computing Research Repository (CoRR), 2020
-<br><a href="https://arxiv.org/pdf/2004.02032.pdf">pdf</a>
+<b>Rationale Generation</b>
+<br>Tasked state-of-the-art Visual Question Answering model (ViLBERT) with  rationale generation (using GPT-2) to interpret/justify answer prediction. It improves accuracy by 1.5% as well.
 </p>
   
 </div>
@@ -103,10 +97,10 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
   
 
 <p>
-<b>Enforcing Reasoning in Visual Commonsense Reasoning</b>.
-<br>Hammad A. Ayyubi, Md Mehrab Tanjim, David Kriegman
-<br>Computing Research Repository (CoRR), 2019
-<br><a href="https://arxiv.org/pdf/1910.11124.pdf">pdf</a> | <a href="https://github.com/Mehrab-Tanjim/r2c">code</a>
+<b>Visual Commonsense Reasoning</b>.
+<br>Enforced reasoning for ans. prediction on VCR by building a 
+differentiable module which jointly trains ans. and rationale prediction (performed better in 
+leaderboard)
 </p>
   
 </div>
@@ -124,10 +118,9 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 <div class="archive__proj__right">
   
 <p>
-<b>Fast, scalable and geo-distributed PCA for big data analytics</b>
-<br>TM Tariq Adnan, Md Mehrab Tanjim, Mummad Abdullah Adnan
-<br>Information Systems, Elsevier, 2021
-<br><a href="https://www.sciencedirect.com/science/article/abs/pii/S0306437920301526?dgcid=rss_sd_all">pdf</a> | <a href="https://github.com/Mehrab-Tanjim/TallnWide">code</a>
+<b>Distributed Algorithm Design</b>
+<br>Extended both Spark and Hadoop for creating 
+geo-distributed clusters in AWS and designed geo-distributed algorithms for higher dimension data 
 </p>
  
 </div>
@@ -144,10 +137,9 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
   
 
 <p>
-<b>sSketch: A scalable sketching technique for PCA in the cloud</b>.
-<br>Md Mehrab Tanjim, Muhammad Abdullah Adnan
-<br>Web Search & Data Mining (WSDM), 2018
-<br><a href="https://dl.acm.org/doi/abs/10.1145/3159652.3159736">pdf</a> | <a href="https://github.com/Mehrab-Tanjim/sSketch">code</a>
+<b>Scalable Machine Learning</b>.
+<br>Improved the scalability of PCA for large datasets (up to 83× better 
+performance) using sketching technique
 </p>
   
 </div>
