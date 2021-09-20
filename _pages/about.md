@@ -29,7 +29,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 <h3>Debiasing Generative Models</h3>
  
 <div class="archive__proj__row">
-  <div class="archive__proj__left">
+  <div class="archive__proj__right">
     <p>
     <b>Generating and Controlling Diversity in Image Search.</b>
     <br>Md Mehrab Tanjim, Ritwik Sinha, Krishna Kumar Singh, Sridhar Mahadevan, David Arbour, Moumita Sinha, Garrison W. Cottrell
@@ -37,7 +37,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
     <br><a href="https://adobe-my.sharepoint.com/:b:/p/tanjim/ERL7lAASxMJChC_HPmWmMssB0Zbi7S4g7rmUvAAwoMyEXQ?e=ei8hLc">pdf</a>
     </p>
   </div>
-  <div class="archive__proj__right">
+  <div class="archive__proj__left">
     <div class="portrait">
         <img  src="https://mehrab-tanjim.github.io/images/adobe_logo_scaled.png"> 
     </div>
@@ -46,8 +46,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 
 <h3>Recommender Systems</h3> 
 <div class="archive__proj__row">
-  <div class="archive__proj__left">
-    <p>
+  <div class="archive__proj__right">
     <p>
     <b>DynamicRec: A Dynamic Convolutional Network for Next Item Recommendation</b>
     <br>Md Mehrab Tanjim, Hammad A. Ayyubi, Garrison W. Cottrell
@@ -55,7 +54,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
     <br><a href="https://cseweb.ucsd.edu/~gary/pubs/mehrab-cikm-2020.pdf">pdf</a> | <a href="https://github.com/Mehrab-Tanjim/DynamicRec">code</a>
     </p>
   </div>
-  <div class="archive__proj__right">
+  <div class="archive__proj__left">
     <div class="square">
         <img  src="https://mehrab-tanjim.github.io/images/adobe_logo_scaled.png"> 
     </div>
@@ -64,7 +63,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 
 
 <div class="archive__proj__row">
-  <div class="archive__proj__left">
+  <div class="archive__proj__right">
     <p>
     <b>Attentive sequential models of latent intent for next item recommendation</b>
     <br>Md Mehrab Tanjim, Congzhe Su, Ethan Benjamin, Dian Hu, Liangjie Hong, Julian McAuley
@@ -72,7 +71,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
     <br><a href="https://cseweb.ucsd.edu/~jmcauley/pdfs/www20.pdf">pdf</a>
     </p>
   </div>
-  <div class="archive__proj__right">
+  <div class="archive__proj__left">
      <div class="square">
         <img src="https://mehrab-tanjim.github.io/images/etsy_logo_scaled.png"> 
     </div>
@@ -83,16 +82,17 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 <h3>Multi-modal Learning</h3>
 
 <div class="archive__proj__row">
-<div class="archive__proj__left">
+<div class="archive__proj__right">
   
 <p>
 <b>Generating Rationales in Visual Question Answering</b>
 <br>Hammad A. Ayyubi*, Md Mehrab Tanjim*, Julian McAuley, Garrison W. Cottrell
 <br>Computing Research Repository (CoRR), 2020
 <br><a href="https://arxiv.org/pdf/2004.02032.pdf">pdf</a>
- 
+</p>
+  
 </div>
-<div class="archive__proj__right">
+<div class="archive__proj__left">
    <div class="square">
       <img src="https://mehrab-tanjim.github.io/images/etsy_logo_scaled.png"> 
   </div>
@@ -101,7 +101,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 
   
 <div class="archive__proj__row">
-<div class="archive__proj__left">
+<div class="archive__proj__right">
   
 
 <p>
@@ -112,7 +112,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 </p>
   
 </div>
-<div class="archive__proj__right">
+<div class="archive__proj__left">
    <div class="square">
       <img src="https://mehrab-tanjim.github.io/images/etsy_logo_scaled.png"> 
   </div>
@@ -123,7 +123,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 <h3>Federated Learning</h3>
   
 <div class="archive__proj__row">
-<div class="archive__proj__left">
+<div class="archive__proj__right">
   
 <p>
 <b>Fast, scalable and geo-distributed PCA for big data analytics</b>
@@ -133,7 +133,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 </p>
  
 </div>
-<div class="archive__proj__right">
+<div class="archive__proj__left">
    <div class="square">
       <img src="https://mehrab-tanjim.github.io/images/etsy_logo_scaled.png"> 
   </div>
