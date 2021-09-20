@@ -36,6 +36,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
     <b>Generating and Controlling Diversity in Image Search.</b>
     <br>Md Mehrab Tanjim, Ritwik Sinha, Krishna Kumar Singh, Sridhar Mahadevan, David Arbour, Moumita Sinha, Garrison W. Cottrell
     <br>Winter Conference on Applications of Computer Vision (WACV), 2022
+    <br><a href="https://adobe-my.sharepoint.com/:b:/p/tanjim/ERL7lAASxMJChC_HPmWmMssB0Zbi7S4g7rmUvAAwoMyEXQ?e=ei8hLc">pdf</a>
     </p>
   </div>
   <div class="archive__pub__right">
@@ -49,12 +50,14 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 <b>Fast, scalable and geo-distributed PCA for big data analytics</b>
 <br>TM Tariq Adnan, Md Mehrab Tanjim, Mummad Abdullah Adnan
 <br>Information Systems, Elsevier, 2021
+<br><a href="https://www.sciencedirect.com/science/article/abs/pii/S0306437920301526?dgcid=rss_sd_all">pdf</a> | <a href="https://github.com/Mehrab-Tanjim/TallnWide">code</a>
 </p>
 
 <p>
 <b>DynamicRec: A Dynamic Convolutional Network for Next Item Recommendation</b>
 <br>Md Mehrab Tanjim, Hammad A. Ayyubi, Garrison W. Cottrell
 <br>Conference on Information and Knowledge Management (CIKM), 2020
+<br><a href="https://cseweb.ucsd.edu/~gary/pubs/mehrab-cikm-2020.pdf">pdf</a> | <a href="https://github.com/Mehrab-Tanjim/DynamicRec">code</a>
 </p>
 
 <div class="archive__pub__row">
@@ -63,6 +66,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
     <b>Attentive sequential models of latent intent for next item recommendation</b>
     <br>Md Mehrab Tanjim, Congzhe Su, Ethan Benjamin, Dian Hu, Liangjie Hong, Julian McAuley
     <br>World Wide Web (WWW), 2020
+    <br><a href="https://cseweb.ucsd.edu/~jmcauley/pdfs/www20.pdf">pdf</a>
     </p>
   </div>
   <div class="archive__pub__right">
@@ -76,12 +80,14 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 <b>Generating Rationales in Visual Question Answering</b>
 <br>Hammad A. Ayyubi*, Md Mehrab Tanjim*, Julian McAuley, Garrison W. Cottrell
 <br>Computing Research Repository (CoRR), 2020
+<br><a href="https://arxiv.org/pdf/2004.02032.pdf">pdf</a>
 </p>
 
 <p>
 <b>Enforcing Reasoning in Visual Commonsense Reasoning</b>.
 <br>Hammad A. Ayyubi, Md Mehrab Tanjim, David Kriegman
 <br>Computing Research Repository (CoRR), 2019
+<br><a href="https://arxiv.org/pdf/1910.11124.pdf">pdf</a> | <a href="https://github.com/Mehrab-Tanjim/r2c">code</a>
 </p>
 
 
@@ -89,6 +95,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 <b>sSketch: A scalable sketching technique for PCA in the cloud</b>.
 <br>Md Mehrab Tanjim, Muhammad Abdullah Adnan
 <br>Web Search & Data Mining (WSDM), 2018
+<br><a href="https://dl.acm.org/doi/abs/10.1145/3159652.3159736">pdf</a> | <a href="https://github.com/Mehrab-Tanjim/sSketch">code</a>
 </p>
 
 </div>
