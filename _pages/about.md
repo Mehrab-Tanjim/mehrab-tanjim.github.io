@@ -80,7 +80,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
   
 
 <p>
-<b><a href="https://arxiv.org/pdf/1910.11124.pdf">Visual Commonsense Reasoning<a></b>.
+<b><a href="https://arxiv.org/pdf/1910.11124.pdf">Visual Commonsense Reasoning</a></b>.
 <br>Enforced reasoning for ans. prediction on VCR by building a 
 differentiable module which jointly trains ans. and rationale prediction (performed better in 
 leaderboard)
