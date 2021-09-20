@@ -142,7 +142,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
   
 
 <div class="archive__proj__row">
-<div class="archive__proj__left">
+<div class="archive__proj__right">
   
 
 <p>
@@ -153,7 +153,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 </p>
   
 </div>
-<div class="archive__proj__right">
+<div class="archive__proj__left">
    <div class="square">
       <img src="https://mehrab-tanjim.github.io/images/etsy_logo_scaled.png"> 
   </div>
