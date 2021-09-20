@@ -66,7 +66,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
     </p>
   </div>
   <div class="archive__proj__left">
-     <div class="landscape">
+     <div>
         <img src="https://mehrab-tanjim.github.io/images/asli.png"> 
     </div>
   </div>
