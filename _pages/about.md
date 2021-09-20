@@ -32,14 +32,12 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
   <div class="archive__proj__right">
     <p>
     <b>Generating and Controlling Diversity in Image Search.</b>
-    <br>Md Mehrab Tanjim, Ritwik Sinha, Krishna Kumar Singh, Sridhar Mahadevan, David Arbour, Moumita Sinha, Garrison W. Cottrell
-    <br>Winter Conference on Applications of Computer Vision (WACV), 2022
-    <br><a href="https://adobe-my.sharepoint.com/:b:/p/tanjim/ERL7lAASxMJChC_HPmWmMssB0Zbi7S4g7rmUvAAwoMyEXQ?e=ei8hLc">pdf</a>
+    <br>Identified the bias issue in the image results for search queries, proposed a way to audit. In addition, proposed an attribute-controlled style-based generator to create new content to mitigate such biases and enrich user experience.
     </p>
   </div>
   <div class="archive__proj__left">
-    <div class="portrait">
-        <img  src="https://mehrab-tanjim.github.io/images/adobe_logo_scaled.png"> 
+    <div class="landscape">
+        <img  src="https://mehrab-tanjim.github.io/images/introduction_alternative_smaller.png"> 
     </div>
   </div>
 </div>
