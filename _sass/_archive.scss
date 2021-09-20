@@ -29,19 +29,17 @@
 
 .archive__proj__right {
    float: right;
-   width: 100%; 
+   width: 90%; 
 }
 
 .archive__proj__left {
    float: right;
-   width: 200px;
-   margin-left: -200px;
+   width: 10%;
 }
 
 .archive__proj__row:after {
   content: "";
   display: table;
-  margin-left: 200px;
   clear: both;
 }
 
