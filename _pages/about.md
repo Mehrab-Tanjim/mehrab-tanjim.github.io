@@ -144,7 +144,7 @@ performance) using sketching technique
 </div>
 <div class="archive__proj__left">
    <div>
-      <img src="https://mehrab-tanjim.github.io/images/etsy_logo_scaled.png"> 
+      <img src="https://mehrab-tanjim.github.io/images/ssketch.png"> 
   </div>
 </div>
 </div>
