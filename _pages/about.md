@@ -32,7 +32,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
   <div class="archive__proj__right">
     <p>
     <b><a href="https://adobe-my.sharepoint.com/:b:/p/tanjim/ERL7lAASxMJChC_HPmWmMssB0Zbi7S4g7rmUvAAwoMyEXQ?e=ei8hLc">Bias Detection in Image Search and Mitigation</a></b>
-    <br>Identified the bias issue in the image results for search queries, proposed a way to audit. In addition, proposed an attribute-controlled style-based generator to create new content to mitigate such biases and enrich user experience.
+    <br>Identified the bias issue in the image results for search queries, proposed a way to audit. In addition, proposed an attribute-controlled style-based generator to create new content to mitigate such biases and enrich user experience. <br> Tech Stack: Pytorch, Tensorflow
     </p>
   </div>
   <div class="archive__proj__left">
@@ -47,7 +47,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
   <div class="archive__proj__right">
     <p>
       <b><a href="https://cseweb.ucsd.edu/~gary/pubs/mehrab-cikm-2020.pdf">Dynamic Convolution</a></b>
-    <br>Built an adaptive convolution network which changes its kernel dynamically depending on the current input (~10% better recommendations).
+    <br>Built an adaptive convolution network which changes its kernel dynamically depending on the current input (~10% better recommendations). <br> Tech Stack: Pytorch
     </p>
   </div>
   <div class="archive__proj__left">
@@ -62,7 +62,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
   <div class="archive__proj__right">
     <p>
     <b><a href="https://cseweb.ucsd.edu/~jmcauley/pdfs/www20.pdf">Intent Detection for Recommendation</a></b>
-    <br>Captured users’ hidden intents (i.e. explore, purchase) from their interactions by designing a hierarchical Transformer model. It first discovers these intents and then pays attention to them for next item prediction (improved personalized recommendations by 5%).
+    <br>Captured users’ hidden intents (i.e. explore, purchase) from their interactions by designing a hierarchical Transformer model. It first discovers these intents and then pays attention to them for next item prediction (improved personalized recommendations by 5%). <br> Tech Stack: Tensorflow
     </p>
   </div>
   <div class="archive__proj__left">
@@ -76,8 +76,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
   <div class="archive__proj__right">
     <p>
     <b><a href="https://github.com/Mehrab-Tanjim/ConvRec/blob/master/ConvRec%20A%20simple%20lightweight%20convolutional.pdf">Lightweight Convolutional Network for Recommendation</a></b>
-    <br>Improved the scalability of sequential recommender methods by modelling a
-scalable depth-wise separable 1D convolution neural network (requires ~30% less memory).
+    <br>Improved the scalability of sequential recommender methods by modelling a scalable depth-wise separable 1D convolution neural network (requires ~30% less memory). <br> Tech Stack: Tensorflow
     </p>
   </div>
   <div class="archive__proj__left">
@@ -96,9 +95,7 @@ scalable depth-wise separable 1D convolution neural network (requires ~30% less 
 
 <p>
 <b><a href="https://arxiv.org/pdf/1910.11124.pdf">Visual Commonsense Reasoning</a></b>.
-<br>Enforced reasoning for ans. prediction on VCR by building a 
-differentiable module which jointly trains ans. and rationale prediction (performed better in 
-leaderboard).
+<br>Enforced reasoning for ans. prediction on VCR by building a differentiable module which jointly trains ans. and rationale prediction (performed better in leaderboard). <br> Tech Stack: Pytorch
 </p>
   
 </div>
@@ -114,7 +111,7 @@ leaderboard).
   
 <p>
 <b><a href="https://arxiv.org/pdf/2004.02032.pdf">Rationale Generation</a></b>
-<br>Tasked state-of-the-art Visual Question Answering model (ViLBERT) with  rationale generation (using GPT-2) to interpret/justify answer prediction. It improves accuracy by 1.5% as well.
+<br>Tasked state-of-the-art Visual Question Answering model (ViLBERT) with  rationale generation (using GPT-2) to interpret/justify answer prediction. It improves accuracy by 1.5% as well. <br> Tech Stack: Pytorch
 </p>
   
 </div>
@@ -133,8 +130,7 @@ leaderboard).
   
 <p>
   <b><a href="https://github.com/Mehrab-Tanjim/geo-spark-hadoop">Distributed Algorithm Design</a></b>
-<br>Extended both Spark and Hadoop for creating 
-geo-distributed clusters in AWS and designed geo-distributed algorithms for higher dimension data.
+<br>Extended both Spark and Hadoop for creating  geo-distributed clusters in AWS and designed geo-distributed algorithms for higher dimension data. <br> Tech Stack: Java, Spark, Hadoop
 </p>
  
 </div>
@@ -153,7 +149,7 @@ geo-distributed clusters in AWS and designed geo-distributed algorithms for high
 <p>
   <b><a href="https://dl.acm.org/doi/abs/10.1145/3159652.3159736">Scalable Principal Component Analysis</a></b>.
 <br>Improved the scalability of PCA for large datasets (up to 83× better 
-performance) using sketching technique.
+performance) using sketching technique. <br> Tech Stack: Java, Scala, Spark
 </p>
   
 </div>
@@ -171,7 +167,7 @@ performance) using sketching technique.
   <div class="archive__proj__right">
     <p>
     <b><a href="https://github.com/Mehrab-Tanjim/Image-Colorization-using-Cycle-GAN">Image Colorization using Cycle Consistency Loss</a></b>
-    <br>Explored the potential of using Cycle Consistency Loss between grey and colored images in Generative Adversarial Networks for generating true and vivid colors for black & white images.
+    <br>Explored the potential of using Cycle Consistency Loss between grey and colored images in Generative Adversarial Networks for generating true and vivid colors for black & white images. <br> Tech Stack: Pytorch
     </p>
   </div>
   <div class="archive__proj__left">
@@ -181,6 +177,22 @@ performance) using sketching technique.
   </div>
 </div>
 
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b><a href="https://github.com/Mehrab-Tanjim/Digitor">Digitor: A Digital Circuit Simulator</a></b>
+    <br>Developed a digital circuit simulator app where one can draw digital circuits and simulate its behavior. It can automatically derive the boolean expression from the circuit and minimize it (using Quine–McCluskey algorithm) to suggest a simplified implementation.<br> Tech Stack: Java
+    </p>
+  </div>
+  <div class="archive__proj__left">
+     <div>
+        <img src="https://mehrab-tanjim.github.io/images/digitor.gif"> 
+    </div>
+  </div>
+</div>
+
+  
 </div>
 
 
