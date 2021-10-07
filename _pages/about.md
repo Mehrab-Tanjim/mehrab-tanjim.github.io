@@ -177,7 +177,20 @@ performance) using sketching technique. <br> Tech Stack: Java, Scala, Spark
   </div>
 </div>
 
-
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b><a href="https://github.com/Mehrab-Tanjim/pragmaticPPCA">Pragmatic Probabilistic Principal Component Analysis</a></b>
+    <br> Using sketching techniques, derived a warm initialization for Expectation Maximization (EM) algorithm of Probabilistic PCA (PPCA). This speeds up convergence up to 2.25×.  <br> Tech Stack: Java, Spark
+    </p>
+  </div>
+  <div class="archive__proj__left">
+     <div>
+        <img src="https://mehrab-tanjim.github.io/images/pragmatic_ppca.png"> 
+    </div>
+  </div>
+</div>
+  
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
