@@ -72,6 +72,21 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
   </div>
 </div>
   
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b><a href="https://github.com/Mehrab-Tanjim/ConvRec/blob/master/ConvRec%20A%20simple%20lightweight%20convolutional.pdf">Lightweight Convolutional Network for Recommendation</a></b>
+    <br>Improved the scalability of sequential recommender methods by modelling a
+scalable depth-wise separable 1D convolution neural network (requires ~30% less memory)
+    </p>
+  </div>
+  <div class="archive__proj__left">
+     <div>
+        <img src="https://mehrab-tanjim.github.io/images/lightweight_convolution.png"> 
+    </div>
+  </div>
+</div>
+  
   
 <h2>Multi-modal Learning</h2>
   
@@ -148,7 +163,23 @@ performance) using sketching technique
   </div>
 </div>
 </div>
+
+<h2>Miscellaneous</h2>
+
   
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b><a href="https://github.com/Mehrab-Tanjim/Image-Colorization-using-Cycle-GAN">Image Colorization using Cycle Consistency Loss</a></b>
+    <br>Explored the potential of using Cycle Consistency Loss between grey and colored images in Generative Adversarial Networks for generating true and vivid colors for black & white images.
+    </p>
+  </div>
+  <div class="archive__proj__left">
+     <div>
+        <img src="?"> 
+    </div>
+  </div>
+</div>
 
 </div>
 
