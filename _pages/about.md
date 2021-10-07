@@ -62,7 +62,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
   <div class="archive__proj__right">
     <p>
     <b><a href="https://cseweb.ucsd.edu/~jmcauley/pdfs/www20.pdf">Intent Detection for Recommendation</a></b>
-    <br>Captured users’ hidden intents (i.e. explore, purchase) from their interactions by designing a hierarchical Transformer model. It first discovers these intents and then pays attention to them for next item prediction (improved personalized recommendations by 5%)
+    <br>Captured users’ hidden intents (i.e. explore, purchase) from their interactions by designing a hierarchical Transformer model. It first discovers these intents and then pays attention to them for next item prediction (improved personalized recommendations by 5%).
     </p>
   </div>
   <div class="archive__proj__left">
@@ -77,7 +77,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
     <p>
     <b><a href="https://github.com/Mehrab-Tanjim/ConvRec/blob/master/ConvRec%20A%20simple%20lightweight%20convolutional.pdf">Lightweight Convolutional Network for Recommendation</a></b>
     <br>Improved the scalability of sequential recommender methods by modelling a
-scalable depth-wise separable 1D convolution neural network (requires ~30% less memory)
+scalable depth-wise separable 1D convolution neural network (requires ~30% less memory).
     </p>
   </div>
   <div class="archive__proj__left">
@@ -98,7 +98,7 @@ scalable depth-wise separable 1D convolution neural network (requires ~30% less 
 <b><a href="https://arxiv.org/pdf/1910.11124.pdf">Visual Commonsense Reasoning</a></b>.
 <br>Enforced reasoning for ans. prediction on VCR by building a 
 differentiable module which jointly trains ans. and rationale prediction (performed better in 
-leaderboard)
+leaderboard).
 </p>
   
 </div>
@@ -134,7 +134,7 @@ leaderboard)
 <p>
   <b><a href="https://github.com/Mehrab-Tanjim/geo-spark-hadoop">Distributed Algorithm Design</a></b>
 <br>Extended both Spark and Hadoop for creating 
-geo-distributed clusters in AWS and designed geo-distributed algorithms for higher dimension data 
+geo-distributed clusters in AWS and designed geo-distributed algorithms for higher dimension data.
 </p>
  
 </div>
@@ -151,9 +151,9 @@ geo-distributed clusters in AWS and designed geo-distributed algorithms for high
   
 
 <p>
-  <b><a href="https://dl.acm.org/doi/abs/10.1145/3159652.3159736">Scalable Machine Learning</a></b>.
+  <b><a href="https://dl.acm.org/doi/abs/10.1145/3159652.3159736">Scalable Principal Component Analysis</a></b>.
 <br>Improved the scalability of PCA for large datasets (up to 83× better 
-performance) using sketching technique
+performance) using sketching technique.
 </p>
   
 </div>
