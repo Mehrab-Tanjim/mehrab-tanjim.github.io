@@ -82,7 +82,7 @@ scalable depth-wise separable 1D convolution neural network (requires ~30% less 
   </div>
   <div class="archive__proj__left">
      <div>
-        <img src="https://mehrab-tanjim.github.io/images/lightweight_convolution.png"> 
+        <img src="https://mehrab-tanjim.github.io/images/lightweight_convolutoin.png"> 
     </div>
   </div>
 </div>
@@ -176,7 +176,7 @@ performance) using sketching technique.
   </div>
   <div class="archive__proj__left">
      <div>
-        <img src="https://mehrab-tanjim.github.io/images/cycle_gan.png""> 
+        <img src="https://mehrab-tanjim.github.io/images/cycle_gan.png"> 
     </div>
   </div>
 </div>
