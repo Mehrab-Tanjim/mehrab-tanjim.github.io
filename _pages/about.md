@@ -176,7 +176,7 @@ performance) using sketching technique
   </div>
   <div class="archive__proj__left">
      <div>
-        <img src="?"> 
+        <img src="https://mehrab-tanjim.github.io/images/cycle_gan.png""> 
     </div>
   </div>
 </div>
