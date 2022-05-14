@@ -31,7 +31,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b><a href="https://adobe-my.sharepoint.com/:b:/p/tanjim/ERL7lAASxMJChC_HPmWmMssB0Zbi7S4g7rmUvAAwoMyEXQ?e=ei8hLc">Bias Detection in Image Search and Mitigation</a></b>
+    <b><a href="https://openaccess.thecvf.com/content/WACV2022/html/Tanjim_Generating_and_Controlling_Diversity_in_Image_Search_WACV_2022_paper.html">Bias Detection in Image Search and Mitigation</a></b>
     <br>Identified the bias issue in the image results for search queries, proposed a way to audit. In addition, proposed an attribute-controlled style-based generator to create new content to mitigate such biases and enrich user experience. <br> Tech Stack: Pytorch, Tensorflow
     </p>
   </div>
