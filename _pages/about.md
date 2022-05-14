@@ -223,7 +223,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
     <b>Generating and Controlling Diversity in Image Search.</b>
     <br>Md Mehrab Tanjim, Ritwik Sinha, Krishna Kumar Singh, Sridhar Mahadevan, David Arbour, Moumita Sinha, Garrison W. Cottrell
     <br>Winter Conference on Applications of Computer Vision (WACV), 2022
-    <br><a href="https://adobe-my.sharepoint.com/:b:/p/tanjim/ERL7lAASxMJChC_HPmWmMssB0Zbi7S4g7rmUvAAwoMyEXQ?e=ei8hLc">pdf</a>
+    <br><a href="https://openaccess.thecvf.com/content/WACV2022/html/Tanjim_Generating_and_Controlling_Diversity_in_Image_Search_WACV_2022_paper.html">pdf</a>
     </p>
   </div>
   <div class="archive__pub__right">
