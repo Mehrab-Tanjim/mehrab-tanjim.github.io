@@ -14,6 +14,16 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 
 <h1>Latest News</h1>
 
+[September 2022] Joint work with Adobe "Discovering and Mitigating Biases in CLIP-based Text-to-Image Generation" accepted as a post at Responsible Computer Vision at ECCV'22.
+
+[August 2022] Joint work with Adobe "Debiasing Image-to-Image Translation Models" accepted in BMVC'22.
+
+[June 2022] Joined Adobe REAL team as a Research Scientist Intern.
+
+[December 2021] Finalist in Adobe Fellowship Program'22.
+
+[September 2021] Submitted my PhD thesis proposal, I am a PhD candidate now!
+
 [July 2021] Joint work with Adobe "Generating and Controlling Diversity in Image Search" has been accepted to WACV'22.
 
 [June 2021] Joined Adobe GILL team as a Computer Vision, Imaging, and Video Intern.
@@ -27,7 +37,35 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 <h1>Projects</h1>
 
 <h2>Debiasing Generative Models</h2>
- 
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b><a href="https://drive.google.com/file/d/1uDgAPfl3bA4wbWtpOPdPdiQq0wzTiAOl/view">Discovering and Mitigating Biases in CLIP-based Text-to-Image Generation</a></b>
+    <br>Discovered the queries for which the popular CLIP model biases the generated images in the text-to-image synthesis task and proposed several ways to mitigate the biases without retraining CLIP or the underlying generative model. <br> Tech Stack: Pytorch
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="https://mehrab-tanjim.github.io/images/debiasing_clip.png"> 
+    </div>
+  </div>
+</div>
+  
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b><a href="https://bmvc2022.org/programme/papers/">Debiasing Image-to-Image Translation Models</a></b>
+    <br>Pretrained StyleGAN2 based networks show various biases in different image-to-image translation tasks (such as super-resolution, sketch-to-image, etc.). Mitigated this bias issue using contrastive learning and uniform sampling of minority attributes.  <br> Tech Stack: Pytorch
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="https://mehrab-tanjim.github.io/images/debiasing_i2i.png"> 
+    </div>
+  </div>
+</div>
+
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
@@ -123,7 +161,21 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 </div>
   
   
-<h2>Federated Learning</h2>
+<h2>Scalable Machine Learning</h2>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b>Scalable Video Fingerprinting</b>
+    <br>Built a scalable, end-to-end pipeline using FAISS library that can trace a manipulated video in less than a second from a trusted database with millions of corpuses. <br> Tech Stack: Tensorflow
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="https://mehrab-tanjim.github.io/images/scalable_video_fingerprinting.png"> 
+    </div>
+  </div>
+</div>
   
 <div class="archive__proj__row">
 <div class="archive__proj__right">
@@ -218,6 +270,32 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 </div>
  
 <div class="archive__pub__row">
+  <div class="archive__pub__left">
+    <p>
+    <b>Discovering and Mitigating Biases in CLIP-based Text-to-Image Generation.</b>
+    <br>Md Mehrab Tanjim, Krishna Kumar Singh, Kushal Kafle, Ritwik Sinha, Garrison W. Cottrell
+    <br>Responsible Computer Vision at ECCV (RCV@ECCV), 2022
+    <br><a href="https://drive.google.com/file/d/1uDgAPfl3bA4wbWtpOPdPdiQq0wzTiAOl/view">pdf</a>
+    </p>
+  </div>
+  <div class="archive__pub__right">
+    <div class="square">
+        <img  src="https://mehrab-tanjim.github.io/images/adobe_logo_scaled.png"> 
+    </div>
+  </div>
+  <div class="archive__pub__left">
+    <p>
+    <b>Debiasing Image-to-Image Translation Models.</b>
+    <br>Md Mehrab Tanjim, Krishna Kumar Singh, Kushal Kafle, Ritwik Sinha, Garrison W. Cottrell
+    <br>British Machine Vision Conference (BMVC), 2022
+<!--     <br><a href="https://openaccess.thecvf.com/content/WACV2022/html/Tanjim_Generating_and_Controlling_Diversity_in_Image_Search_WACV_2022_paper.html">pdf</a> -->
+    </p>
+  </div>
+  <div class="archive__pub__right">
+    <div class="square">
+        <img  src="https://mehrab-tanjim.github.io/images/adobe_logo_scaled.png"> 
+    </div>
+  </div>
   <div class="archive__pub__left">
     <p>
     <b>Generating and Controlling Diversity in Image Search.</b>
