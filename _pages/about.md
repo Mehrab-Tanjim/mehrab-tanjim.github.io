@@ -10,9 +10,11 @@ redirect_from:
 
 Hi! I am Mehrab, a PhD Candidate (4th year) in CS with a specialization in Artificial Intelligence and Machine Learning. My advisor is [Professor Garrison W. Cottrell](https://cseweb.ucsd.edu/~gary/). My current research focus is on deep generative models, especially debiasing them in different tasks such as attributes to image generation, image-to-image translation tasks, etc. I have also worked on and have research interests in recommender systems and federated learning. To learn more about my projects, please feel free to take a look at my [projects](https://mehrab-tanjim.github.io/#projects) and relevant [publications](https://mehrab-tanjim.github.io/#publications)!
 
-Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdullah Adnan](https://sites.google.com/site/abdullahadnan/) at my undergraduate university, Bangladesh University of Engineering and Technology (BUET), where I received my bachelor's in CS. There I spent a wonderful time developing scalable machine learning algorithms (e.g. PCA) in the distributed environment (e.g Spark/Hadoop). After joining UCSD, I had the opportunity to work as a Data Science intern at Etsy (Summer 2019), Adobe (Summer 2020, 2021, and 2022). I am grateful to Adobe for the generous gift funds to my advisor for supporting my research.
+Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdullah Adnan](https://sites.google.com/site/abdullahadnan/) at my undergraduate university, Bangladesh University of Engineering and Technology (BUET), where I received my bachelor's in CS. There I spent a wonderful time developing scalable machine learning algorithms (e.g. PCA) in the distributed environment (e.g Spark/Hadoop). After joining UCSD, I had the opportunity to work as a Data Science intern at Etsy (Summer 2019), Adobe (Summer 2020, 2021, and 2022). I am grateful to Adobe and The Home Depot for the generous gift funds to my advisor for supporting my research.
 
 <h1>Latest News</h1>
+
+[September 2022] Jointed The Home Depot Online Data Science team as a Data Science Intern (part-time, co-op program).
 
 [September 2022] Joint work with Adobe "Discovering and Mitigating Biases in CLIP-based Text-to-Image Generation" accepted as a post at Responsible Computer Vision at ECCV'22.
 
