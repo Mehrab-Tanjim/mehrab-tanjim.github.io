@@ -14,7 +14,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 
 <h1>Latest News</h1>
 
-[September 2022] Jointed The Home Depot Online Data Science team as a Data Science Intern (part-time, co-op program).
+[September 2022] Joined The Home Depot Online Data Science team as a Data Science Intern (part-time, co-op program).
 
 [September 2022] Joint work with Adobe "Discovering and Mitigating Biases in CLIP-based Text-to-Image Generation" accepted as a post at Responsible Computer Vision at ECCV'22.
 
