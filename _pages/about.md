@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Mehrab, a PhD Candidate (4th year) in CS with a specialization in Artificial Intelligence and Machine Learning. My advisor is [Professor Garrison W. Cottrell](https://cseweb.ucsd.edu/~gary/). My current research focus is on deep generative models, especially debiasing them in different tasks such as attributes to image generation, image-to-image translation tasks, etc. I have also worked on and have research interests in recommender systems and federated learning. To learn more about my projects, please feel free to take a look at my [projects](https://mehrab-tanjim.github.io/#projects) and relevant [publications](https://mehrab-tanjim.github.io/#publications)!
+Hi! I am Mehrab, a PhD graduate in Computer Science specializing in Artificial Intelligence and Machine Learning from the University of California San Diego (UCSD). My advisor was Professor Garrison W. Cottrell (https://cseweb.ucsd.edu/~gary/). During my PhD, I focused on deep generative models, particularly on debiasing them in various tasks such as attributes to image generation, image-to-image translation, text-to-image generation, etc. Additionally, my research interests include recommender systems, federated learning, and scalable machine learning. To learn more about my projects and relevant publications, please visit https://mehrab-tanjim.github.io/#projects and https://mehrab-tanjim.github.io/#publications, respectively. Thank you!
 
 Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdullah Adnan](https://sites.google.com/site/abdullahadnan/) at my undergraduate university, Bangladesh University of Engineering and Technology (BUET), where I received my bachelor's in CS. There I spent a wonderful time developing scalable machine learning algorithms (e.g. PCA) in the distributed environment (e.g Spark/Hadoop). After joining UCSD, I had the opportunity to work as a Data Science intern at Etsy (Summer 2019), Adobe (Summer 2020, 2021, and 2022). I am grateful to Adobe and The Home Depot for the generous gift funds to my advisor for supporting my research.
 
 <h1>Latest News</h1>
+[March 2023] Successfully defended my doctoral disseration! 
 
 [September 2022] Joined The Home Depot Online Data Science team as a Data Science Intern (part-time, co-op program).
 
@@ -21,7 +22,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 [August 2022] Joint work with Adobe "Debiasing Image-to-Image Translation Models" accepted in BMVC'22.
 
 [June 2022] Joined Adobe REAL team as a Research Scientist Intern.
-
+<!-- 
 [December 2021] Finalist in Adobe Fellowship Program'22.
 
 [September 2021] Submitted my PhD thesis proposal, I am a PhD candidate now!
@@ -32,7 +33,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 
 [March 2021] Received my Master's degree in CS (specialization in Machine Learning) from UCSD!
 
-[January 2021] Joint work with BUET "Fast, scalable and geo-distributed PCA for big data analytics" has been accepted to Information Systems'21. 
+[January 2021] Joint work with BUET "Fast, scalable and geo-distributed PCA for big data analytics" has been accepted to Information Systems'21.  -->
 
 
 <div id="projects">
