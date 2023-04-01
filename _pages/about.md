@@ -226,7 +226,7 @@ performance) using sketching technique. <br> Tech Stack: Java, Scala, Spark
   <div class="archive__proj__right">
     <p>
     <b><a href="https://github.com/Mehrab-Tanjim/fair_search_engine_using_CLIP">Fair Image Search Engine using CLIP</a></b>
-    <br>Built a search engine using CLIP image and text embedding. The basic mechanism for image search is simple: calculate the cosine similarity scores between CLIP embedding of the text query and images in the database and sort from highest to lowest to show the most relevant images on the top. But in this mode, the top results may not show diversity. To rectify that, employed a diversity constraint using the embedding for different demographics. <br> Tech Stack: Pytorch
+    <br>Built a search engine by calculating the cosine similarity scores between CLIP embedding of the text query and images in the database and sorting from highest to lowest to show the most relevant images on the top. Additionally, employed a diversity constraint using the embedding for different demographics. <br> Tech Stack: Pytorch
     </p>
   </div>
   <div class="archive__proj__left">
