@@ -22,6 +22,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 [August 2022] Joint work with Adobe "Debiasing Image-to-Image Translation Models" accepted in BMVC'22.
 
 [June 2022] Joined Adobe REAL team as a Research Scientist Intern.
+
 <!-- 
 [December 2021] Finalist in Adobe Fellowship Program'22.
 
@@ -33,7 +34,8 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 
 [March 2021] Received my Master's degree in CS (specialization in Machine Learning) from UCSD!
 
-[January 2021] Joint work with BUET "Fast, scalable and geo-distributed PCA for big data analytics" has been accepted to Information Systems'21.  -->
+[January 2021] Joint work with BUET "Fast, scalable and geo-distributed PCA for big data analytics" has been accepted to Information Systems'21.  
+-->
 
 
 <div id="projects">
