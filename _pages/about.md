@@ -10,12 +10,12 @@ redirect_from:
 
 Hi! I am Mehrab. I received my PhD in Computer Science specializing in Artificial Intelligence and Machine Learning from the University of California San Diego (UCSD). My advisor was Professor Garrison W. Cottrell (https://cseweb.ucsd.edu/~gary/). During my PhD, I focused on deep generative models, particularly on debiasing them in various tasks such as attributes to image generation, image-to-image translation, text-to-image generation, etc. Additionally, my research interests include recommender systems, federated learning, and scalable machine learning. To learn more about my projects and relevant publications, please visit https://mehrab-tanjim.github.io/#projects and https://mehrab-tanjim.github.io/#publications, respectively. Thank you!
 
-Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdullah Adnan](https://sites.google.com/site/abdullahadnan/) at my undergraduate university, Bangladesh University of Engineering and Technology (BUET), where I received my bachelor's in CS. There I spent a wonderful time developing scalable machine learning algorithms (e.g. PCA) in the distributed environment (e.g Spark/Hadoop). After joining UCSD, I had the opportunity to work as a Data Science intern at Etsy (Summer 2019), Adobe (Summer 2020, 2021, and 2022). I am grateful to Adobe and The Home Depot for the generous gift funds to my advisor for supporting my research.
+Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdullah Adnan](https://sites.google.com/site/abdullahadnan/) at my undergraduate university, Bangladesh University of Engineering and Technology (BUET), where I received my bachelor's in CS. There I spent a wonderful time developing scalable machine learning algorithms (e.g. PCA) in the distributed environment (e.g Spark/Hadoop). After joining UCSD, I had the opportunity to work as a Data Science intern at Etsy (Summer 2019), Adobe (Summer 2020, 2021, and 2022), and The Home Depot (Fall 2022). I am grateful to Adobe and The Home Depot for the generous gift funds to my advisor for supporting my research.
 
 <h1>Latest News</h1>
-[April 2023] Joined Adobe as a Research Scientist! <br />
-<br />
- 
+[April 2023] Joined Adobe as a Research Scientist! 
+<br /><br />
+
 [March 2023] Successfully defended my doctoral disseration! 
 
 [September 2022] Joined The Home Depot Online Data Science team as a Data Science Intern (part-time, co-op program).
@@ -296,7 +296,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
     <b>Debiasing Image-to-Image Translation Models.</b>
     <br>Md Mehrab Tanjim, Krishna Kumar Singh, Kushal Kafle, Ritwik Sinha, Garrison W. Cottrell
     <br>British Machine Vision Conference (BMVC), 2022
-<!--     <br><a href="https://openaccess.thecvf.com/content/WACV2022/html/Tanjim_Generating_and_Controlling_Diversity_in_Image_Search_WACV_2022_paper.html">pdf</a> -->
+    <br><a href="https://bmvc2022.mpi-inf.mpg.de/0182.pdf">pdf</a>
     </p>
   </div>
   <div class="archive__pub__right">
