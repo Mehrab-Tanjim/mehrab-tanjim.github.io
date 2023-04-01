@@ -14,7 +14,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 
 <h1>Latest News</h1>
 [April 2023] Joined Adobe as a Research Scientist! 
-<br /><br />
+<br />
 
 [March 2023] Successfully defended my doctoral disseration! 
 
