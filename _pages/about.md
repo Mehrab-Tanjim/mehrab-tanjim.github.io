@@ -60,7 +60,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b><a href="https://bmvc2022.mpi-inf.mpg.de/0182.pdf">Debiasing Image-to-Image Translation Models</a></b>
+    <b><a href="https://bmvc2022.mpi-inf.mpg.de/182/">Debiasing Image-to-Image Translation Models</a></b>
     <br>Pretrained StyleGAN2 based networks show various biases in different image-to-image translation tasks (such as super-resolution, sketch-to-image, etc.). Mitigated this bias issue using contrastive learning and uniform sampling of minority attributes.  <br> Tech Stack: Pytorch
     </p>
   </div>
