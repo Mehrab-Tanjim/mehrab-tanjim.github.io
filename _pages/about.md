@@ -140,7 +140,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
   
 
 <p>
-<b><a href="https://arxiv.org/pdf/1910.11124.pdf">Visual Commonsense Reasoning</a></b>.
+<b><a href="https://arxiv.org/abs/1910.11124">Visual Commonsense Reasoning</a></b>.
 <br>Enforced reasoning for ans. prediction on VCR by building a differentiable module which jointly trains ans. and rationale prediction (performed better in leaderboard). <br> Tech Stack: Pytorch
 </p>
   
@@ -156,7 +156,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 <div class="archive__proj__right">
   
 <p>
-<b><a href="https://arxiv.org/pdf/2004.02032.pdf">Rationale Generation</a></b>
+<b><a href="https://arxiv.org/abs/2004.02032">Rationale Generation</a></b>
 <br>Tasked state-of-the-art Visual Question Answering model (ViLBERT) with  rationale generation (using GPT-2) to interpret/justify answer prediction. It improves accuracy by 1.5% as well. <br> Tech Stack: Pytorch
 </p>
   
