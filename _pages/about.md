@@ -92,7 +92,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-      <b><a href="https://cseweb.ucsd.edu/~gary/pubs/mehrab-cikm-2020.pdf">Dynamic Convolution</a></b>
+      <b><a href="https://dl.acm.org/doi/10.1145/3340531.3412118">Dynamic Convolution</a></b>
     <br>Built an adaptive convolution network which changes its kernel dynamically depending on the current input (~10% better recommendations). <br> Tech Stack: Pytorch
     </p>
   </div>
@@ -107,7 +107,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b><a href="https://cseweb.ucsd.edu/~jmcauley/pdfs/www20.pdf">Intent Detection for Recommendation</a></b>
+    <b><a href="https://dl.acm.org/doi/10.1145/3366423.3380002">Intent Detection for Recommendation</a></b>
     <br>Captured users’ hidden intents (i.e. explore, purchase) from their interactions by designing a hierarchical Transformer model. It first discovers these intents and then pays attention to them for next item prediction (improved personalized recommendations by 5%). <br> Tech Stack: Tensorflow
     </p>
   </div>
@@ -343,7 +343,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 <b>DynamicRec: A Dynamic Convolutional Network for Next Item Recommendation</b>
 <br>Md Mehrab Tanjim, Hammad A. Ayyubi, Garrison W. Cottrell
 <br>Conference on Information and Knowledge Management (CIKM), 2020
-<br><a href="https://cseweb.ucsd.edu/~gary/pubs/mehrab-cikm-2020.pdf">pdf</a> | <a href="https://github.com/Mehrab-Tanjim/DynamicRec">code</a>
+<br><a href="https://dl.acm.org/doi/10.1145/3340531.3412118">pdf</a> | <a href="https://github.com/Mehrab-Tanjim/DynamicRec">code</a>
 </p>
 
 <div class="archive__pub__row">
@@ -352,7 +352,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
     <b>Attentive sequential models of latent intent for next item recommendation</b>
     <br>Md Mehrab Tanjim, Congzhe Su, Ethan Benjamin, Dian Hu, Liangjie Hong, Julian McAuley
     <br>World Wide Web (WWW), 2020
-    <br><a href="https://cseweb.ucsd.edu/~jmcauley/pdfs/www20.pdf">pdf</a>
+    <br><a href="https://dl.acm.org/doi/pdf/10.1145/3366423.3380002">pdf</a> | <a href="https://github.com/Mehrab-Tanjim/ASLI">code</a>
     </p>
   </div>
   <div class="archive__pub__right">
@@ -362,6 +362,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   </div>
 </div>
 
+  
 <!-- <p>
 <b>Generating Rationales in Visual Question Answering</b>
 <br>Hammad A. Ayyubi*, Md Mehrab Tanjim*, Julian McAuley, Garrison W. Cottrell
