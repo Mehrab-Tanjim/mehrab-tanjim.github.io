@@ -281,7 +281,25 @@ performance) using sketching technique. <br> Tech Stack: Java, Scala, Spark
   
 </div>
 
-
+<div id="patents">
+<h2>Patents</h2>
+ 
+<div class="archive__pub__row">
+  <div class="archive__pub__left">
+    <p>
+    <b>GENERATING SIMULATED IMAGES THAT ENHANCE SOCIO-DEMOGRAPHIC DIVERSITY</b>
+    <br>Md Mehrab Tanjim, Ritwik Sinha, Krishna Kumar Singh, Sridhar Mahadevan, David Arbour, Moumita Sinha
+    <br>United States Patent Application 17/485780, 2023
+    <br><a href="https://www.freepatentsonline.com/y2023/0094954.html">link</a>
+    </p>
+  </div>
+  <div class="archive__pub__right">
+    <div class="square">
+        <img  src="https://mehrab-tanjim.github.io/images/adobe_logo_scaled.png"> 
+    </div>
+  </div>
+</div>
+  
 <div id="publications">
 <h2>Publications</h2>
 
