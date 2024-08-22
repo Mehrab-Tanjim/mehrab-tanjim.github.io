@@ -13,14 +13,15 @@ Hi! I am Mehrab. I received my PhD in Computer Science specializing in Artificia
 Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdullah Adnan](https://sites.google.com/site/abdullahadnan/) at my undergraduate university, Bangladesh University of Engineering and Technology (BUET), where I received my bachelor's in CS. There I spent a wonderful time developing scalable machine learning algorithms (e.g. PCA) in the distributed environment (e.g Spark/Hadoop). After joining UCSD, I had the opportunity to work as a Data Science intern at Etsy (Summer 2019), Adobe (Summer 2020, 2021, and 2022), and The Home Depot (Fall 2022). I am grateful to Adobe and The Home Depot for the generous gift funds to my advisor for supporting my research.
 
 <h1>Latest News</h1>
+
+[October 2023] "Discovering and Mitigating Biases in CLIP-based Image Editing" accepted as an Oral at WACV'24.
+
 [April 2023] Joined Adobe as a Research Scientist! 
 <br />
 
 [March 2023] Successfully defended my doctoral disseration! 
 
 [September 2022] Joined The Home Depot Online Data Science team as a Data Science Intern (part-time, co-op program).
-
-[September 2022] Joint work with Adobe "Discovering and Mitigating Biases in CLIP-based Text-to-Image Generation" accepted as a post at Responsible Computer Vision at ECCV'22.
 
 [August 2022] Joint work with Adobe "Debiasing Image-to-Image Translation Models" accepted in BMVC'22.
 
@@ -41,10 +42,134 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 -->
 
 
+<div id="patents">
+<h2>Patents</h2>
+ 
+<div class="archive__pub__row">
+  <div class="archive__pub__left">
+    <p>
+    <b>GENERATING SIMULATED IMAGES THAT ENHANCE SOCIO-DEMOGRAPHIC DIVERSITY</b>
+    <br>Md Mehrab Tanjim, Ritwik Sinha, Krishna Kumar Singh, Sridhar Mahadevan, David Arbour, Moumita Sinha
+    <br>United States Patent Application 17/485780, 2023
+    <br><a href="https://www.freepatentsonline.com/y2023/0094954.html">link</a>
+    </p>
+  </div>
+  <div class="archive__pub__right">
+    <div class="square">
+        <img  src="https://mehrab-tanjim.github.io/images/adobe_logo_scaled.png"> 
+    </div>
+  </div>
+</div>
+  
+<div id="publications">
+<h2>Publications</h2>
+
+<div>
+For latest publications, please visit <u><a href="https://scholar.google.com/citations?user=IPr2JZYAAAAJ&hl=en">my Google Scholar profile</a>.</u>
+<br><br>
+</div>
+ 
+<div class="archive__pub__row">
+  <div class="archive__pub__left">
+    <p>
+    <b>Discovering and Mitigating Biases in CLIP-based Text-to-Image Generation.</b>
+    <br>Md Mehrab Tanjim, Krishna Kumar Singh, Kushal Kafle, Ritwik Sinha, Garrison W. Cottrell
+    <br>Responsible Computer Vision at ECCV (RCV@ECCV), 2022
+    <br><a href="https://drive.google.com/file/d/1uDgAPfl3bA4wbWtpOPdPdiQq0wzTiAOl/view">pdf</a>
+    </p>
+  </div>
+  <div class="archive__pub__right">
+    <div class="square">
+        <img  src="https://mehrab-tanjim.github.io/images/adobe_logo_scaled.png"> 
+    </div>
+  </div>
+  <div class="archive__pub__left">
+    <p>
+    <b>Debiasing Image-to-Image Translation Models.</b>
+    <br>Md Mehrab Tanjim, Krishna Kumar Singh, Kushal Kafle, Ritwik Sinha, Garrison W. Cottrell
+    <br>British Machine Vision Conference (BMVC), 2022
+    <br><a href="https://bmvc2022.mpi-inf.mpg.de/0182.pdf">pdf</a>
+    </p>
+  </div>
+  <div class="archive__pub__right">
+    <div class="square">
+        <img  src="https://mehrab-tanjim.github.io/images/adobe_logo_scaled.png"> 
+    </div>
+  </div>
+  <div class="archive__pub__left">
+    <p>
+    <b>Generating and Controlling Diversity in Image Search.</b>
+    <br>Md Mehrab Tanjim, Ritwik Sinha, Krishna Kumar Singh, Sridhar Mahadevan, David Arbour, Moumita Sinha, Garrison W. Cottrell
+    <br>Winter Conference on Applications of Computer Vision (WACV), 2022
+    <br><a href="https://openaccess.thecvf.com/content/WACV2022/html/Tanjim_Generating_and_Controlling_Diversity_in_Image_Search_WACV_2022_paper.html">pdf</a>
+    </p>
+  </div>
+  <div class="archive__pub__right">
+    <div class="square">
+        <img  src="https://mehrab-tanjim.github.io/images/adobe_logo_scaled.png"> 
+    </div>
+  </div>
+</div>
+
+<p>
+<b>Fast, scalable and geo-distributed PCA for big data analytics</b>
+<br>TM Tariq Adnan, Md Mehrab Tanjim, Mummad Abdullah Adnan
+<br>Information Systems, Elsevier, 2021
+<br><a href="https://www.sciencedirect.com/science/article/abs/pii/S0306437920301526?dgcid=rss_sd_all">pdf</a> | <a href="https://github.com/Mehrab-Tanjim/TallnWide">code</a>
+</p>
+
+<p>
+<b>DynamicRec: A Dynamic Convolutional Network for Next Item Recommendation</b>
+<br>Md Mehrab Tanjim, Hammad A. Ayyubi, Garrison W. Cottrell
+<br>Conference on Information and Knowledge Management (CIKM), 2020
+<br><a href="https://dl.acm.org/doi/10.1145/3340531.3412118">pdf</a> | <a href="https://github.com/Mehrab-Tanjim/DynamicRec">code</a>
+</p>
+
+<div class="archive__pub__row">
+  <div class="archive__pub__left">
+    <p>
+    <b>Attentive sequential models of latent intent for next item recommendation</b>
+    <br>Md Mehrab Tanjim, Congzhe Su, Ethan Benjamin, Dian Hu, Liangjie Hong, Julian McAuley
+    <br>World Wide Web (WWW), 2020
+    <br><a href="https://dl.acm.org/doi/pdf/10.1145/3366423.3380002">pdf</a> | <a href="https://github.com/Mehrab-Tanjim/ASLI">code</a>
+    </p>
+  </div>
+  <div class="archive__pub__right">
+     <div class="square">
+        <img src="https://mehrab-tanjim.github.io/images/etsy_logo_scaled.png"> 
+    </div>
+  </div>
+</div>
+
+  
+<!-- <p>
+<b>Generating Rationales in Visual Question Answering</b>
+<br>Hammad A. Ayyubi*, Md Mehrab Tanjim*, Julian McAuley, Garrison W. Cottrell
+<br>Computing Research Repository (CoRR), 2020
+<br><a href="https://arxiv.org/pdf/2004.02032.pdf">pdf</a>
+</p>
+
+<p>
+<b>Enforcing Reasoning in Visual Commonsense Reasoning</b>.
+<br>Hammad A. Ayyubi, Md Mehrab Tanjim, David Kriegman
+<br>Computing Research Repository (CoRR), 2019
+<br><a href="https://arxiv.org/pdf/1910.11124.pdf">pdf</a> | <a href="https://github.com/Mehrab-Tanjim/r2c">code</a>
+</p> -->
+
+
+<p>
+<b>sSketch: A scalable sketching technique for PCA in the cloud</b>.
+<br>Md Mehrab Tanjim, Muhammad Abdullah Adnan
+<br>Web Search & Data Mining (WSDM), 2018
+<br><a href="https://dl.acm.org/doi/abs/10.1145/3159652.3159736">pdf</a> | <a href="https://github.com/Mehrab-Tanjim/sSketch">code</a>
+</p>
+
+</div>
+
 <div id="projects">
 <h1>Projects</h1>
 
-<h2>Debiasing Generative Models</h2>
+<h2>Bias and Fairness</h2>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -281,126 +406,3 @@ performance) using sketching technique. <br> Tech Stack: Java, Scala, Spark
   
 </div>
 
-<div id="patents">
-<h2>Patents</h2>
- 
-<div class="archive__pub__row">
-  <div class="archive__pub__left">
-    <p>
-    <b>GENERATING SIMULATED IMAGES THAT ENHANCE SOCIO-DEMOGRAPHIC DIVERSITY</b>
-    <br>Md Mehrab Tanjim, Ritwik Sinha, Krishna Kumar Singh, Sridhar Mahadevan, David Arbour, Moumita Sinha
-    <br>United States Patent Application 17/485780, 2023
-    <br><a href="https://www.freepatentsonline.com/y2023/0094954.html">link</a>
-    </p>
-  </div>
-  <div class="archive__pub__right">
-    <div class="square">
-        <img  src="https://mehrab-tanjim.github.io/images/adobe_logo_scaled.png"> 
-    </div>
-  </div>
-</div>
-  
-<div id="publications">
-<h2>Publications</h2>
-
-<div>
-For latest publications, please visit <u><a href="https://scholar.google.com/citations?user=IPr2JZYAAAAJ&hl=en">my Google Scholar profile</a>.</u>
-<br><br>
-</div>
- 
-<div class="archive__pub__row">
-  <div class="archive__pub__left">
-    <p>
-    <b>Discovering and Mitigating Biases in CLIP-based Text-to-Image Generation.</b>
-    <br>Md Mehrab Tanjim, Krishna Kumar Singh, Kushal Kafle, Ritwik Sinha, Garrison W. Cottrell
-    <br>Responsible Computer Vision at ECCV (RCV@ECCV), 2022
-    <br><a href="https://drive.google.com/file/d/1uDgAPfl3bA4wbWtpOPdPdiQq0wzTiAOl/view">pdf</a>
-    </p>
-  </div>
-  <div class="archive__pub__right">
-    <div class="square">
-        <img  src="https://mehrab-tanjim.github.io/images/adobe_logo_scaled.png"> 
-    </div>
-  </div>
-  <div class="archive__pub__left">
-    <p>
-    <b>Debiasing Image-to-Image Translation Models.</b>
-    <br>Md Mehrab Tanjim, Krishna Kumar Singh, Kushal Kafle, Ritwik Sinha, Garrison W. Cottrell
-    <br>British Machine Vision Conference (BMVC), 2022
-    <br><a href="https://bmvc2022.mpi-inf.mpg.de/0182.pdf">pdf</a>
-    </p>
-  </div>
-  <div class="archive__pub__right">
-    <div class="square">
-        <img  src="https://mehrab-tanjim.github.io/images/adobe_logo_scaled.png"> 
-    </div>
-  </div>
-  <div class="archive__pub__left">
-    <p>
-    <b>Generating and Controlling Diversity in Image Search.</b>
-    <br>Md Mehrab Tanjim, Ritwik Sinha, Krishna Kumar Singh, Sridhar Mahadevan, David Arbour, Moumita Sinha, Garrison W. Cottrell
-    <br>Winter Conference on Applications of Computer Vision (WACV), 2022
-    <br><a href="https://openaccess.thecvf.com/content/WACV2022/html/Tanjim_Generating_and_Controlling_Diversity_in_Image_Search_WACV_2022_paper.html">pdf</a>
-    </p>
-  </div>
-  <div class="archive__pub__right">
-    <div class="square">
-        <img  src="https://mehrab-tanjim.github.io/images/adobe_logo_scaled.png"> 
-    </div>
-  </div>
-</div>
-
-<p>
-<b>Fast, scalable and geo-distributed PCA for big data analytics</b>
-<br>TM Tariq Adnan, Md Mehrab Tanjim, Mummad Abdullah Adnan
-<br>Information Systems, Elsevier, 2021
-<br><a href="https://www.sciencedirect.com/science/article/abs/pii/S0306437920301526?dgcid=rss_sd_all">pdf</a> | <a href="https://github.com/Mehrab-Tanjim/TallnWide">code</a>
-</p>
-
-<p>
-<b>DynamicRec: A Dynamic Convolutional Network for Next Item Recommendation</b>
-<br>Md Mehrab Tanjim, Hammad A. Ayyubi, Garrison W. Cottrell
-<br>Conference on Information and Knowledge Management (CIKM), 2020
-<br><a href="https://dl.acm.org/doi/10.1145/3340531.3412118">pdf</a> | <a href="https://github.com/Mehrab-Tanjim/DynamicRec">code</a>
-</p>
-
-<div class="archive__pub__row">
-  <div class="archive__pub__left">
-    <p>
-    <b>Attentive sequential models of latent intent for next item recommendation</b>
-    <br>Md Mehrab Tanjim, Congzhe Su, Ethan Benjamin, Dian Hu, Liangjie Hong, Julian McAuley
-    <br>World Wide Web (WWW), 2020
-    <br><a href="https://dl.acm.org/doi/pdf/10.1145/3366423.3380002">pdf</a> | <a href="https://github.com/Mehrab-Tanjim/ASLI">code</a>
-    </p>
-  </div>
-  <div class="archive__pub__right">
-     <div class="square">
-        <img src="https://mehrab-tanjim.github.io/images/etsy_logo_scaled.png"> 
-    </div>
-  </div>
-</div>
-
-  
-<!-- <p>
-<b>Generating Rationales in Visual Question Answering</b>
-<br>Hammad A. Ayyubi*, Md Mehrab Tanjim*, Julian McAuley, Garrison W. Cottrell
-<br>Computing Research Repository (CoRR), 2020
-<br><a href="https://arxiv.org/pdf/2004.02032.pdf">pdf</a>
-</p>
-
-<p>
-<b>Enforcing Reasoning in Visual Commonsense Reasoning</b>.
-<br>Hammad A. Ayyubi, Md Mehrab Tanjim, David Kriegman
-<br>Computing Research Repository (CoRR), 2019
-<br><a href="https://arxiv.org/pdf/1910.11124.pdf">pdf</a> | <a href="https://github.com/Mehrab-Tanjim/r2c">code</a>
-</p> -->
-
-
-<p>
-<b>sSketch: A scalable sketching technique for PCA in the cloud</b>.
-<br>Md Mehrab Tanjim, Muhammad Abdullah Adnan
-<br>Web Search & Data Mining (WSDM), 2018
-<br><a href="https://dl.acm.org/doi/abs/10.1145/3159652.3159736">pdf</a> | <a href="https://github.com/Mehrab-Tanjim/sSketch">code</a>
-</p>
-
-</div>
