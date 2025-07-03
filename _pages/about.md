@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Mehrab, a Research Scientist at Adobe Research since April 2023. My current work focuses on the automated optimization of LLM-based agents for reasoning, planning, and decision-making, with a special emphasis on using synthetic data to address the cold-start problem in optimization and evaluation. Beyond this, my research interests span query understanding and disambiguation, trust and bias in generative AI systems, recommender systems, and designing scalable machine learning algorithms.
+Hi! I’m Mehrab, a Research Scientist at Adobe Research since April 2023. My current work focuses on the automated optimization of LLM-based agents for reasoning, planning, and decision-making with the help of synthetic data to mitigate data scarcity challenges in the optimization and evaluation phases. Beyond this, my research interests span query understanding and disambiguation, trust and bias in generative AI systems, recommender systems, and designing scalable machine learning algorithms.
 
 I earned my Ph.D. in Computer Science from the University of California, San Diego (UCSD), where I was advised by [Prof. Garrison W. Cottrell](https://cseweb.ucsd.edu/~gary/). My doctoral research focused on enhancing fairness and robustness in generative models across diverse modalities and tasks, including text-to-image generation, image translation, and attribute-based image synthesis. During my Ph.D., I interned at Adobe Research (Summer 2020–2022), where I worked on debiasing generative models; at Etsy as a Data Science Intern (Summer 2019); and at The Home Depot as a Data Science Intern (Fall 2022). I am grateful to Adobe and The Home Depot for the generous gift funds to my advisor for supporting my research.
 
