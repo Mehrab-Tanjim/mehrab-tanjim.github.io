@@ -333,7 +333,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 
 <p>
 <b>sSketch: A scalable sketching technique for PCA in the cloud</b>.
-<br>Md Mehrab Tanjim, Muhammad Abdullah Adnan
+<br><b>Md Mehrab Tanjim</b>, Muhammad Abdullah Adnan
 <br>Web Search & Data Mining (WSDM), 2018
 <br><a href="https://dl.acm.org/doi/abs/10.1145/3159652.3159736">pdf</a> | <a href="https://github.com/Mehrab-Tanjim/sSketch">code</a>
 </p>
