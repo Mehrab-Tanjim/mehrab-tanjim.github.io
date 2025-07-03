@@ -143,7 +143,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <div class="archive__pub__left">
     <p>
     <b>Calibrating MLLM-as-a-judge via Multimodal Bayesian Prompt Ensembles.</b>
-    <br>Eric Slyman, **Md Mehrab Tanjim**, Kushal Kafle, Stefan Lee
+    <br>Eric Slyman, <b>Md Mehrab Tanjim</b>, Kushal Kafle, Stefan Lee
     <br>ICCV, 2025
 <!--     <br><a href="https://arxiv.org/abs/2503.08010">pdf</a> -->
     </p>
