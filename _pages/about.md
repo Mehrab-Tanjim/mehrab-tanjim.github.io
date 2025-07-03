@@ -14,7 +14,7 @@ I earned my Ph.D. in Computer Science from the University of California, San Die
 
 Before UCSD, I received my bachelor's degree in Computer Science from the Bangladesh University of Engineering and Technology (BUET), where I worked with [Dr. Muhammad Abdullah Adnan](https://sites.google.com/site/abdullahadnan/) on scalable machine learning algorithms in distributed environments like Spark and Hadoop.
 
-To learn more about my work, please visit my [projects](https://mehrab-tanjim.github.io/#projects) and [publications](https://mehrab-tanjim.github.io/#publications).
+To learn more about my work, please visit [publications](https://mehrab-tanjim.github.io/#publications).
 
 
 <h1>Life Updates</h1>
