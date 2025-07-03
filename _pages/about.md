@@ -151,7 +151,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <div class="archive__pub__left">
     <p>
     <b>SKALD: Learning-Based Shot Assembly for Coherent Multi-Shot Video Creation.</b>
-    <br>Chen Yi Lu, **Md Mehrab Tanjim**, Ishita Dasgupta, Somdeb Sarkhel, Gang Wu, Saayan Mitra, Somali Chaterji
+    <br>Chen Yi Lu, <b>Md Mehrab Tanjim</b>, Ishita Dasgupta, Somdeb Sarkhel, Gang Wu, Saayan Mitra, Somali Chaterji
     <br>ICCV, 2025
     <br><a href="https://arxiv.org/abs/2503.08010">pdf</a>
     </p>
@@ -164,7 +164,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <div class="archive__pub__left">
     <p>
     <b>VISIAR: Empower MLLM for Visual Story Ideation.</b>
-    <br>Zhaoyang Xia, Somdeb Sarkhel, **Md Mehrab Tanjim**, Stefano Petrangeli, Ishita Dasgupta, Yuxiao Chen, JINXUAN XU, Di Liu, Saayan Mitra, Dimitris N. Metaxas
+    <br>Zhaoyang Xia, Somdeb Sarkhel, <b>Md Mehrab Tanjim</b>, Stefano Petrangeli, Ishita Dasgupta, Yuxiao Chen, JINXUAN XU, Di Liu, Saayan Mitra, Dimitris N. Metaxas
     <br>ACL, 2025
 <!--     <br><a href="https://arxiv.org/abs/2503.08010">pdf</a> -->
     </p>
@@ -177,7 +177,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
    <div class="archive__pub__left">
     <p>
     <b>Diversify-verify-adapt: Efficient and Robust Retrieval-Augmented Ambiguous Question Answering.</b>
-    <br>Yeonjun In, Sungchul Kim, Ryan A Rossi, **Md Mehrab Tanjim**, Tong Yu, Ritwik Sinha, Chanyoung Park
+    <br>Yeonjun In, Sungchul Kim, Ryan A Rossi, <b>Md Mehrab Tanjim</b>, Tong Yu, Ritwik Sinha, Chanyoung Park
     <br>NAACL, 2025
     <br><a href="https://arxiv.org/abs/2409.02361">pdf</a>
     </p>
@@ -190,7 +190,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
    <div class="archive__pub__left">
     <p>
     <b>Self-debiasing large language models: Zero-shot recognition and reduction of stereotypes.</b>
-    <br>Isabel O Gallegos, Ryan A Rossi, Joe Barrow, **Md Mehrab Tanjim**, Tong Yu, Hanieh Deilamsalehy, Ruiyi Zhang, Sungchul Kim, Franck Dernoncourt
+    <br>Isabel O Gallegos, Ryan A Rossi, Joe Barrow, <b>Md Mehrab Tanjim</b>, Tong Yu, Hanieh Deilamsalehy, Ruiyi Zhang, Sungchul Kim, Franck Dernoncourt
     <br>NAACL, 2025
     <br><a href="https://arxiv.org/abs/2402.01981">pdf</a>
     </p>
@@ -203,7 +203,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <div class="archive__pub__left">
     <p>
     <b>Bias and fairness in large language models: A survey</b>
-    <br>Isabel O Gallegos, Ryan A Rossi, Joe Barrow, **Md Mehrab Tanjim**, Sungchul Kim, Franck Dernoncourt, Tong Yu, Ruiyi Zhang, Nesreen K Ahmed
+    <br>Isabel O Gallegos, Ryan A Rossi, Joe Barrow, <b>Md Mehrab Tanjim</b>, Sungchul Kim, Franck Dernoncourt, Tong Yu, Ruiyi Zhang, Nesreen K Ahmed
     <br>Computational Linguistics, 2024
     <br><a href="https://direct.mit.edu/coli/article-pdf/doi/10.1162/coli_a_00524/2471010/coli_a_00524.pdf">pdf</a>
     </p>
@@ -216,7 +216,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
    <div class="archive__pub__left">
     <p>
     <b>ECLAIR: Enhanced Clarification for Interactive Responses.</b>
-    <br>John Murzaku, Zifan Liu, **Md Mehrab Tanjim**, Vaishnavi Muppala, Xiang Chen, Yunyao Li
+    <br>John Murzaku, Zifan Liu, <b>Md Mehrab Tanjim</b>, Vaishnavi Muppala, Xiang Chen, Yunyao Li
     <br>IAAI 2025
     <br><a href="https://ojs.aaai.org/index.php/AAAI/article/view/35152">pdf</a>
     </p>
@@ -229,7 +229,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <div class="archive__pub__left">
     <p>
     <b>RECON: Training-Free Acceleration for Text-to-Image Synthesis with Retrieval of Concept Prompt Trajectories.</b>
-    <br>Chen-Yi Lu, Shubham Agarwal, **Md Mehrab Tanjim**, Kanak Mahadik, Anup Rao, Subrata Mitra, Shiv Kumar Saini, Saurabh Bagchi, Somali Chaterji
+    <br>Chen-Yi Lu, Shubham Agarwal, <b>Md Mehrab Tanjim</b>, Kanak Mahadik, Anup Rao, Subrata Mitra, Shiv Kumar Saini, Saurabh Bagchi, Somali Chaterji
     <br>ECCV, 2024
     <br><a href="https://link.springer.com/chapter/10.1007/978-3-031-73202-7_17">pdf</a>
     </p>
@@ -242,7 +242,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <div class="archive__pub__left">
     <p>
     <b>Discovering and Mitigating Biases in CLIP-based Text-to-Image Generation.</b>
-    <br>**Md Mehrab Tanjim**, Krishna Kumar Singh, Kushal Kafle, Ritwik Sinha, Garrison W. Cottrell
+    <br><b>Md Mehrab Tanjim</b>, Krishna Kumar Singh, Kushal Kafle, Ritwik Sinha, Garrison W. Cottrell
     <br>WACV, 2024
     <br><a href="https://openaccess.thecvf.com/content/WACV2024/html/Tanjim_Discovering_and_Mitigating_Biases_in_CLIP-Based_Image_Editing_WACV_2024_paper.html">pdf</a>
     </p>
@@ -255,7 +255,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <div class="archive__pub__left">
     <p>
     <b>Debiasing Image-to-Image Translation Models.</b>
-    <br>**Md Mehrab Tanjim**, Krishna Kumar Singh, Kushal Kafle, Ritwik Sinha, Garrison W. Cottrell
+    <br><b>Md Mehrab Tanjim</b>, Krishna Kumar Singh, Kushal Kafle, Ritwik Sinha, Garrison W. Cottrell
     <br>British Machine Vision Conference (BMVC), 2022
     <br><a href="https://bmvc2022.mpi-inf.mpg.de/0182.pdf">pdf</a>
     </p>
@@ -268,7 +268,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <div class="archive__pub__left">
     <p>
     <b>Generating and Controlling Diversity in Image Search.</b>
-    <br>**Md Mehrab Tanjim**, Ritwik Sinha, Krishna Kumar Singh, Sridhar Mahadevan, David Arbour, Moumita Sinha, Garrison W. Cottrell
+    <br><b>Md Mehrab Tanjim</b>, Ritwik Sinha, Krishna Kumar Singh, Sridhar Mahadevan, David Arbour, Moumita Sinha, Garrison W. Cottrell
     <br>Winter Conference on Applications of Computer Vision (WACV), 2022
     <br><a href="https://openaccess.thecvf.com/content/WACV2022/html/Tanjim_Generating_and_Controlling_Diversity_in_Image_Search_WACV_2022_paper.html">pdf</a>
     </p>
@@ -282,14 +282,14 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 
 <p>
 <b>Fast, scalable and geo-distributed PCA for big data analytics</b>
-<br>TM Tariq Adnan, **Md Mehrab Tanjim**, Mummad Abdullah Adnan
+<br>TM Tariq Adnan, <b>Md Mehrab Tanjim</b>, Mummad Abdullah Adnan
 <br>Information Systems, Elsevier, 2021
 <br><a href="https://www.sciencedirect.com/science/article/abs/pii/S0306437920301526?dgcid=rss_sd_all">pdf</a> | <a href="https://github.com/Mehrab-Tanjim/TallnWide">code</a>
 </p>
 
 <p>
 <b>DynamicRec: A Dynamic Convolutional Network for Next Item Recommendation</b>
-<br>**Md Mehrab Tanjim**, Hammad A. Ayyubi, Garrison W. Cottrell
+<br><b>Md Mehrab Tanjim</b>, Hammad A. Ayyubi, Garrison W. Cottrell
 <br>Conference on Information and Knowledge Management (CIKM), 2020
 <br><a href="https://dl.acm.org/doi/10.1145/3340531.3412118">pdf</a> | <a href="https://github.com/Mehrab-Tanjim/DynamicRec">code</a>
 </p>
@@ -298,7 +298,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <div class="archive__pub__left">
     <p>
     <b>Attentive sequential models of latent intent for next item recommendation</b>
-    <br>**Md Mehrab Tanjim**, Congzhe Su, Ethan Benjamin, Dian Hu, Liangjie Hong, Julian McAuley
+    <br><b>Md Mehrab Tanjim</b>, Congzhe Su, Ethan Benjamin, Dian Hu, Liangjie Hong, Julian McAuley
     <br>World Wide Web (WWW), 2020
     <br><a href="https://dl.acm.org/doi/pdf/10.1145/3366423.3380002">pdf</a> | <a href="https://github.com/Mehrab-Tanjim/ASLI">code</a>
     </p>
