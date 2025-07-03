@@ -14,6 +14,7 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 
 <h1>Life Updates</h1>
 [2025] Promoted to Research Scientist 2 in January! 
+<br />
 
 [2024] Became a father! 
 
@@ -37,7 +38,76 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
 
 <div id="patents">
 <h2>Patents</h2>
- 
+
+
+
+<div class="archive__pub__row">
+  <div class="archive__pub__left">
+    <p>
+    <b>Scalable Video Fingerprinting for Content Authenticity</b>
+    <br>Ritwik Sinha, Viswanathan Swaminathan, Simon Jenni, Md Mehrab Tanjim, John Collomosse
+    <br>United States Patent Application 18/473045, 27 March 2025
+    <br><a href="https://patents.google.com/patent/US20250103649A1/en">link</a>
+    </p>
+  </div>
+  <div class="archive__pub__right">
+    <div class="square">
+        <img  src="https://mehrab-tanjim.github.io/images/adobe_logo_scaled.png"> 
+    </div>
+  </div>
+</div>
+
+
+<div class="archive__pub__row">
+  <div class="archive__pub__left">
+    <p>
+    <b>ENHANCING NEXT ITEM RECOMMENDATION THROUGH CROSS-ATTENTION</b>
+    <br>Walid Shalaby, Xiquan Cui, Janani Balaji, Md Mehrab Tanjim
+    <br>United States Patent Application 18/736,371, 12 December 2024
+    <br><a href="https://www.freepatentsonline.com/y2024/0411662.html">link</a>
+    </p>
+  </div>
+  <div class="archive__pub__right">
+    <div class="square">
+        <img  src="https://mehrab-tanjim.github.io/images/thd_logo_scaled.png"> 
+    </div>
+  </div>
+</div>
+
+
+<div class="archive__pub__row">
+  <div class="archive__pub__left">
+    <p>
+    <b>System and methods for diversity auditing</b>
+    <br>Md Mehrab Tanjim, Ritwik Sinha, Moumita Sinha, David Thomas Arbour, Sridhar Mahadevan
+    <br>United States Patent Application 17/652,026, 3 Decemebr 2024
+    <br><a href="https://patents.google.com/patent/US12159482B2/en">link</a>
+    </p>
+  </div>
+  <div class="archive__pub__right">
+    <div class="square">
+        <img  src="https://mehrab-tanjim.github.io/images/adobe_logo_scaled.png"> 
+    </div>
+  </div>
+</div>
+
+
+<div class="archive__pub__row">
+  <div class="archive__pub__left">
+    <p>
+    <b>Debiasing image to image translation models</b>
+    <br>Md Mehrab Tanjim, Krishna Kumar Singh, Kushal Kafle, Ritwik Sinha
+    <br>United States Patent Application 17/880,120, 8 February 2024
+    <br><a href="https://patents.google.com/patent/US20240046412A1/en">link</a>
+    </p>
+  </div>
+  <div class="archive__pub__right">
+    <div class="square">
+        <img  src="https://mehrab-tanjim.github.io/images/adobe_logo_scaled.png"> 
+    </div>
+  </div>
+</div>
+
 <div class="archive__pub__row">
   <div class="archive__pub__left">
     <p>
@@ -53,7 +123,9 @@ Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdul
     </div>
   </div>
 </div>
-  
+
+
+
 <div id="publications">
 <h2>Publications</h2>
 
@@ -63,12 +135,76 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 </div>
  
 <div class="archive__pub__row">
+   
+  <div class="archive__pub__left">
+    <p>
+    <b>SKALD: Learning-Based Shot Assembly for Coherent Multi-Shot Video Creation.</b>
+    <br>Chen Yi Lu, Md Mehrab Tanjim, Ishita Dasgupta, Somdeb Sarkhel, Gang Wu, Saayan Mitra, Somali Chaterji
+    <br>ICCV, 2025
+    <br><a href="https://arxiv.org/abs/2503.08010">pdf</a>
+    </p>
+  </div>
+  <div class="archive__pub__right">
+    <div class="square">
+        <img  src="https://mehrab-tanjim.github.io/images/adobe_logo_scaled.png"> 
+    </div>
+  </div>
+   <div class="archive__pub__left">
+    <p>
+    <b>Diversify-verify-adapt: Efficient and Robust Retrieval-Augmented Ambiguous Question Answering.</b>
+    <br>Yeonjun In, Sungchul Kim, Ryan A Rossi, Md Mehrab Tanjim, Tong Yu, Ritwik Sinha, Chanyoung Park
+    <br>NAACL, 2025
+    <br><a href="https://arxiv.org/abs/2409.02361">pdf</a>
+    </p>
+  </div>
+   <div class="archive__pub__left">
+    <p>
+    <b>Self-debiasing large language models: Zero-shot recognition and reduction of stereotypes.</b>
+    <br>Isabel O Gallegos, Ryan A Rossi, Joe Barrow, Md Mehrab Tanjim, Tong Yu, Hanieh Deilamsalehy, Ruiyi Zhang, Sungchul Kim, Franck Dernoncourt
+    <br>NAACL, 2025
+    <br><a href="https://arxiv.org/abs/2402.01981">pdf</a>
+    </p>
+  </div>
+  <div class="archive__pub__right">
+    <div class="square">
+        <img  src="https://mehrab-tanjim.github.io/images/adobe_logo_scaled.png"> 
+    </div>
+  </div>
+  <div class="archive__pub__left">
+    <p>
+    <b>Bias and fairness in large language models: A survey</b>
+    <br>Isabel O Gallegos, Ryan A Rossi, Joe Barrow, Md Mehrab Tanjim, Sungchul Kim, Franck Dernoncourt, Tong Yu, Ruiyi Zhang, Nesreen K Ahmed
+    <br>Computational Linguistics, 2024
+    <br><a href="https://direct.mit.edu/coli/article-pdf/doi/10.1162/coli_a_00524/2471010/coli_a_00524.pdf">pdf</a>
+    </p>
+  </div>
+   <div class="archive__pub__left">
+    <p>
+    <b>ECLAIR: Enhanced Clarification for Interactive Responses.</b>
+    <br>John Murzaku, Zifan Liu, Md Mehrab Tanjim, Vaishnavi Muppala, Xiang Chen, Yunyao Li
+    <br>IAAI 2025
+    <br><a href="https://ojs.aaai.org/index.php/AAAI/article/view/35152">pdf</a>
+    </p>
+  </div>
+  <div class="archive__pub__left">
+    <p>
+    <b>RECON: Training-Free Acceleration for Text-to-Image Synthesis with Retrieval of Concept Prompt Trajectories.</b>
+    <br>Chen-Yi Lu, Shubham Agarwal, Md Mehrab Tanjim, Kanak Mahadik, Anup Rao, Subrata Mitra, Shiv Kumar Saini, Saurabh Bagchi, Somali Chaterji
+    <br>ECCV, 2024
+    <br><a href="https://link.springer.com/chapter/10.1007/978-3-031-73202-7_17">pdf</a>
+    </p>
+  </div>
+  <div class="archive__pub__right">
+    <div class="square">
+        <img  src="https://mehrab-tanjim.github.io/images/adobe_logo_scaled.png"> 
+    </div>
+  </div>
   <div class="archive__pub__left">
     <p>
     <b>Discovering and Mitigating Biases in CLIP-based Text-to-Image Generation.</b>
     <br>Md Mehrab Tanjim, Krishna Kumar Singh, Kushal Kafle, Ritwik Sinha, Garrison W. Cottrell
-    <br>Responsible Computer Vision at ECCV (RCV@ECCV), 2022
-    <br><a href="https://drive.google.com/file/d/1uDgAPfl3bA4wbWtpOPdPdiQq0wzTiAOl/view">pdf</a>
+    <br>WACV, 2024
+    <br><a href="https://openaccess.thecvf.com/content/WACV2024/html/Tanjim_Discovering_and_Mitigating_Biases_in_CLIP-Based_Image_Editing_WACV_2024_paper.html">pdf</a>
     </p>
   </div>
   <div class="archive__pub__right">
