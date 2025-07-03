@@ -8,15 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Mehrab. I received my PhD in Computer Science specializing in Artificial Intelligence and Machine Learning from the University of California San Diego (UCSD). My advisor was Professor [Garrison W. Cottrell](https://cseweb.ucsd.edu/~gary/). During my PhD, I focused on deep generative models, particularly on debiasing them in various tasks such as attributes to image generation, image-to-image translation, text-to-image generation, etc. Additionally, my research interests include recommender systems, federated learning, and scalable machine learning. To learn more about my projects and relevant publications, please visit my [projects](https://mehrab-tanjim.github.io/#projects) and [publications](https://mehrab-tanjim.github.io/#publications), respectively. 
+Hi! I’m Mehrab, a Research Scientist at Adobe Research since April 2023. My current work focuses on automated optimization of LLM-based agents for reasoning, planning, and decision-making, with a particular emphasis on synthetic data generation for robust training and evaluation. Beyond this, my research interests span query understanding and disambiguation, trust and bias in generative AI systems, content moderation, recommender systems, and scalable machine learning.
 
-Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdullah Adnan](https://sites.google.com/site/abdullahadnan/) at my undergraduate university, Bangladesh University of Engineering and Technology (BUET), where I received my bachelor's in CS. There I spent a wonderful time developing scalable machine learning algorithms (e.g. PCA) in the distributed environment (e.g Spark/Hadoop). After joining UCSD, I had the opportunity to work as a Data Science intern at Etsy (Summer 2019), Adobe (Summer 2020, 2021, and 2022), and The Home Depot (Fall 2022). I am grateful to Adobe and The Home Depot for the generous gift funds to my advisor for supporting my research.
+I earned my Ph.D. in Computer Science from the University of California, San Diego (UCSD), where I was advised by [Prof. Garrison W. Cottrell](https://cseweb.ucsd.edu/~gary/). My doctoral research focused on enhancing fairness and robustness in generative models across diverse modalities and tasks, including text-to-image generation, image translation, and attribute-based image synthesis. During my Ph.D., I interned at Adobe Research (Summer 2020–2022), where I worked on debiasing generative models; at Etsy as a Data Science Intern (Summer 2019); and at The Home Depot as a Data Science Intern (Fall 2022). I am grateful to Adobe and The Home Depot for the generous gift funds to my advisor for supporting my research.
+
+Before UCSD, I received my bachelor's degree in Computer Science from the Bangladesh University of Engineering and Technology (BUET), where I worked with [Dr. Muhammad Abdullah Adnan](https://sites.google.com/site/abdullahadnan/) on scalable machine learning algorithms in distributed environments like Spark and Hadoop.
+
+To learn more about my work, please visit my [projects](https://mehrab-tanjim.github.io/#projects) and [publications](https://mehrab-tanjim.github.io/#publications).
+
 
 <h1>Life Updates</h1>
 [2025] Promoted to Research Scientist 2 in January! 
 <br />
 
-[2024] Became a father! 
+[2024] Became a father in late October! 
 
 [2023] Joined Adobe as a Research Scientist in April! 
 <br />
@@ -135,7 +140,14 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 </div>
  
 <div class="archive__pub__row">
-   
+  <div class="archive__pub__left">
+    <p>
+    <b>Calibrating MLLM-as-a-judge via Multimodal Bayesian Prompt Ensembles.</b>
+    <br>Eric Slyman, Mehrab Tanjim, Kushal Kafle, Stefan Lee
+    <br>ICCV, 2025
+<!--     <br><a href="https://arxiv.org/abs/2503.08010">pdf</a> -->
+    </p>
+  </div>
   <div class="archive__pub__left">
     <p>
     <b>SKALD: Learning-Based Shot Assembly for Coherent Multi-Shot Video Creation.</b>
@@ -156,6 +168,11 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
     <br>NAACL, 2025
     <br><a href="https://arxiv.org/abs/2409.02361">pdf</a>
     </p>
+  </div>
+  <div class="archive__pub__right">
+    <div class="square">
+        <img  src="https://mehrab-tanjim.github.io/images/adobe_logo_scaled.png"> 
+    </div>
   </div>
    <div class="archive__pub__left">
     <p>
@@ -178,6 +195,11 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
     <br><a href="https://direct.mit.edu/coli/article-pdf/doi/10.1162/coli_a_00524/2471010/coli_a_00524.pdf">pdf</a>
     </p>
   </div>
+  <div class="archive__pub__right">
+    <div class="square">
+        <img  src="https://mehrab-tanjim.github.io/images/adobe_logo_scaled.png"> 
+    </div>
+  </div>
    <div class="archive__pub__left">
     <p>
     <b>ECLAIR: Enhanced Clarification for Interactive Responses.</b>
@@ -185,6 +207,11 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
     <br>IAAI 2025
     <br><a href="https://ojs.aaai.org/index.php/AAAI/article/view/35152">pdf</a>
     </p>
+  </div>
+  <div class="archive__pub__right">
+    <div class="square">
+        <img  src="https://mehrab-tanjim.github.io/images/adobe_logo_scaled.png"> 
+    </div>
   </div>
   <div class="archive__pub__left">
     <p>
