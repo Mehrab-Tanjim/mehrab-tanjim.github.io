@@ -12,20 +12,13 @@ Hi! I am Mehrab. I received my PhD in Computer Science specializing in Artificia
 
 Before joining UCSD, I was a research assistant working with [Dr. Muhammad Abdullah Adnan](https://sites.google.com/site/abdullahadnan/) at my undergraduate university, Bangladesh University of Engineering and Technology (BUET), where I received my bachelor's in CS. There I spent a wonderful time developing scalable machine learning algorithms (e.g. PCA) in the distributed environment (e.g Spark/Hadoop). After joining UCSD, I had the opportunity to work as a Data Science intern at Etsy (Summer 2019), Adobe (Summer 2020, 2021, and 2022), and The Home Depot (Fall 2022). I am grateful to Adobe and The Home Depot for the generous gift funds to my advisor for supporting my research.
 
-<h1>Latest News</h1>
+<h1>Life Updates</h1>
+[2025] Promoted to Research Scientist 2 in January! 
 
-[October 2023] "Discovering and Mitigating Biases in CLIP-based Image Editing" accepted as an Oral at WACV'24.
+[2024] Became a father! 
 
-[April 2023] Joined Adobe as a Research Scientist! 
+[2023] Joined Adobe as a Research Scientist in April! 
 <br />
-
-[March 2023] Successfully defended my doctoral disseration! 
-
-[September 2022] Joined The Home Depot Online Data Science team as a Data Science Intern (part-time, co-op program).
-
-[August 2022] Joint work with Adobe "Debiasing Image-to-Image Translation Models" accepted in BMVC'22.
-
-[June 2022] Joined Adobe REAL team as a Research Scientist Intern.
 
 <!-- 
 [December 2021] Finalist in Adobe Fellowship Program'22.
