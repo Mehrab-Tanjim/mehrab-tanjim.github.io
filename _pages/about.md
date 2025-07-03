@@ -148,6 +148,11 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 <!--     <br><a href="https://arxiv.org/abs/2503.08010">pdf</a> -->
     </p>
   </div>
+  <div class="archive__pub__right">
+    <div class="square">
+        <img  src="https://mehrab-tanjim.github.io/images/adobe_logo_scaled.png"> 
+    </div>
+  </div>
   <div class="archive__pub__left">
     <p>
     <b>SKALD: Learning-Based Shot Assembly for Coherent Multi-Shot Video Creation.</b>
